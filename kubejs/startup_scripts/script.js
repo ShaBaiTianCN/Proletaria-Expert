@@ -501,7 +501,7 @@ onEvent('block.registry', function (event) {
     builder.tooltip(text.translate('block.kubejs.compressed_lapis_2x.tooltip'));
   }); // Other --------------------------------
 
-  event.create('lapis_compressed_iron_block').material('iron').hardness(2.0).displayName('青金石灌注的压缩铁块');
+  event.create('lapis_compressed_iron_block').material('iron').hardness(2.0).displayName('灌注青金石压缩铁块');
 });
 onEvent('fluid.registry', function (event) {
   event.create('mystical_lubricant').textureThick(0x0f97d6).bucketColor(0x0f97d6);
