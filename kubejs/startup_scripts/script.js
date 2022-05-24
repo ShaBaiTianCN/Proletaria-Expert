@@ -39,7 +39,7 @@ onEvent('item.registry', function (event) {
     food.eaten(function (e) {
       if (!e.player.stages.has('end_access')) {
         e.player.stages.add('end_access');
-        e.player.tell(text.green("您已解锁访问末地"));
+        e.player.tell(text.green("您已解锁前往末地的权限"));
       }
     });
   }).tooltip(text.translate('item.kubejs.ender_sushi.tooltip')).glow(true);
@@ -50,7 +50,7 @@ onEvent('item.registry', function (event) {
     food.eaten(function (e) {
       if (!e.player.stages.has('nether_access')) {
         e.player.stages.add('nether_access');
-        e.player.tell(text.green("您已解锁访问下界"));
+        e.player.tell(text.green("您已解锁进入下界的权限"));
       }
     });
   }).tooltip(text.translate('item.kubejs.fiery_snack.tooltip'));
@@ -501,7 +501,7 @@ onEvent('block.registry', function (event) {
     builder.tooltip(text.translate('block.kubejs.compressed_lapis_2x.tooltip'));
   }); // Other --------------------------------
 
-  event.create('lapis_compressed_iron_block').material('iron').hardness(2.0).displayName('灌注青金石压缩铁块');
+  event.create('lapis_compressed_iron_block').material('iron').hardness(2.0).displayName('青金石灌注的压缩铁块');
 });
 onEvent('fluid.registry', function (event) {
   event.create('mystical_lubricant').textureThick(0x0f97d6).bucketColor(0x0f97d6);
