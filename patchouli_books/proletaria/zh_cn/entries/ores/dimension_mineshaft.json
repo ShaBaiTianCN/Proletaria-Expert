@@ -70,9 +70,9 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:quartz",
-      "title": "下届石英",
+      "title": "下界石英",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成下届石英。"
+      "text": "使用神秘维度矿井生成下界石英。"
     },
     {
       "type": "patchouli:spotlight",
