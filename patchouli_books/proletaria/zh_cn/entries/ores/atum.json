@@ -23,7 +23,7 @@
       "item": "atum:nebu_ore",
       "title": "Nebu 矿石",
       "link_recipe": true,
-      "text": "只能在阿图姆Y64找到 Nebu 矿石。"
+      "text": "只能在阿图姆Y64找到Nebu矿石。"
     },
     {
       "type": "patchouli:spotlight",

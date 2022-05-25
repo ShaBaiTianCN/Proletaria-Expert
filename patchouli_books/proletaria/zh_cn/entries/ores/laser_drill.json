@@ -37,7 +37,7 @@
   "item": "minecraft:emerald",
   "title": "绿宝石",
   "link_recipe": true,
-  "text": " 使用工业先锋的镭射钻井可以产出绿宝石"
+  "text": "使用工业先锋的镭射钻井可以产出绿宝石"
   },
   {
   "type": "patchouli:spotlight",
@@ -72,14 +72,14 @@
   "item": "emendatusenigmatica:cinnabar_gem",
   "title": "朱砂",
   "link_recipe": true,
-  "text": " 使用工业先锋的镭射钻井可以产出朱砂"
+  "text": "使用工业先锋的镭射钻井可以产出朱砂"
   },
   {
   "type": "patchouli:spotlight",
   "item": "emendatusenigmatica:nickel_chunk",
   "title": "镍碎块",
   "link_recipe": true,
-  "text": " 使用工业先锋的镭射钻井可以产出镍碎块"
+  "text": "使用工业先锋的镭射钻井可以产出镍碎块"
   },
   {
   "type": "patchouli:spotlight",
@@ -114,14 +114,14 @@
   "item": "emendatusenigmatica:potassium_nitrate_gem",
   "title": "硝酸钾",
   "link_recipe": true,
-  "text": " 使用工业先锋的镭射钻井可以产出硝酸钾"
+  "text": "使用工业先锋的镭射钻井可以产出硝酸钾"
   },
   {
   "type": "patchouli:spotlight",
   "item": "minecraft:coal",
   "title": "煤炭",
   "link_recipe": true,
-  "text": " 使用工业先锋的镭射钻井可以产出煤炭"
+  "text": "使用工业先锋的镭射钻井可以产出煤炭"
   },
   {
   "type": "patchouli:spotlight",
@@ -191,14 +191,14 @@
   "item": "botania:life_essence",
   "title": "盖亚之魂",
   "link_recipe": true,
-  "text": "使用工业先锋的镭射钻井可以产出盖亚之魂,，但你的设置需要在AE（应用能源）2的空间维度上。"
+  "text": "使用工业先锋的镭射钻井可以产出盖亚之魂，但你的设置需要在AE（应用能源）2的空间维度上。"
   },
   {
       "type": "patchouli:spotlight",
     "item": "atum:nebu_ore",
       "title": "Nebu 矿",
     "link_recipe": true,
-      "text": "使用工业先锋的镭射钻井可以产出Nebu 矿"
+      "text": "使用工业先锋的镭射钻井可以产出Nebu矿"
   }
   ]
   }
