@@ -72,7 +72,7 @@
       "item": "emendatusenigmatica:cinnabar_gem",
       "title": "朱砂",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出朱砂"
+      "text": "工业先锋的镭射钻能生成朱砂"
     },
     {
       "type": "patchouli:spotlight",
@@ -107,7 +107,7 @@
       "item": "emendatusenigmatica:uranium_chunk",
       "title": "铀矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻能生成铀矿块"
+      "text": "工业先锋的镭射钻能生成铀矿块"
     },
     {
       "type": "patchouli:spotlight",
@@ -191,7 +191,7 @@
       "item": "botania:life_essence",
       "title": "盖亚之魂",
       "link_recipe": true,
-      "text": "工业先锋的镭射钻能生成盖亚之魂，但你需要设置在应用能源2的空间维度上。"
+      "text": "工业先锋的镭射钻能生成盖亚之魂，但你需要将机器安装在应用能源2的封闭空间内。"
     },
     {
       "type": "patchouli:spotlight",

@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "只要把任何1个矿石或矿块扔进水里，就能得到对应矿物的1个粒。"
+      "text": "只要把任何1个矿石或矿块扔进水中，就能得到对应矿物的1个粒。"
     },
     {
       "type": "patchouli:image",
@@ -21,7 +21,7 @@
       "item": "botania:mana_pool",
       "title": "魔力池",
       "link_recipe": true,
-      "text": "只要把任何1个矿石或矿块扔进一个魔力池，就能得到对应矿物的3个粒。"
+      "text": "只要把任何1个矿石或矿块扔进一个魔力池中，就能得到对应矿物的3个粒。"
     },
     {
       "type": "patchouli:multiblock",
@@ -73,8 +73,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "植物学家的冶炼炉",
-      "text": "将1个矿石或矿块放入植物学家的冶炼炉，每块矿石会给你1个完整的锭。"
+      "title": "植物学家的冶炼厂",
+      "text": "将1个矿石或矿块放入植物学家的冶炼厂中，每块矿石会给你1个完整的锭。"
     },
     {
       "type": "patchouli:multiblock",
@@ -144,8 +144,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "植物学家的脉冲枪",
-      "text": "将1个矿石或矿块放入植物学家脉冲枪中，每块矿石会给你1个完整的锭，并有机会获得额外的粒。"
+      "title": "植物学家的高炉",
+      "text": "将1个矿石或矿块放入植物学家的高炉中，每块矿石会给你1个完整的锭，并有机会获得额外的粒。"
     },
     {
       "type": "patchouli:multiblock",
@@ -218,7 +218,7 @@
       "item": "tconstruct:smeltery_controller",
       "title": "匠魂冶炼炉",
       "link_recipe": true,
-      "text": "将1个矿石或矿块放入匠魂冶炼炉，每块矿石会给你1个完整的锭，如果你想制造更好的工具，就会很有用。"
+      "text": "将1个矿石或矿块放入匠魂冶炼炉中，每块矿石会给你1个完整的锭，如果你想制造更好的工具，就会很有用。"
     },
     {
       "type": "patchouli:multiblock",
