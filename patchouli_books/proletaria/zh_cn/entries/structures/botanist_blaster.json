@@ -1,14 +1,14 @@
 {
-  "name": "植物学家的脉冲枪",
+  "name": "植物学家的高炉",
   "icon": "masterfulmachinery:livingrock_controller",
   "category": "patchouli:multiblock_structures",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "masterfulmachinery:livingrock_controller",
-      "title": "植物学家的脉冲枪",
+      "title": "植物学家的高炉",
       "link_recipe": true,
-      "text": "这是植物学家的脉冲枪，它直接升级石炉冶炼功能，将允许你冶炼特殊物品，并用于游戏早期的合金化。$(br2)指南和真实的结构之间有一些不同，这些将在接下来的几页中有所描述。"
+      "text": "这是植物学家的高炉，它直接由冶炼厂版本升级，将允许你冶炼特殊物品，并用于游戏早期的合金制作。$(br2)指南和实际的结构之间有一些差异，这些差异将在接下来的几页中描述。"
     },
     {
       "type": "patchouli:multiblock",

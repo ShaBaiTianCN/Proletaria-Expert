@@ -1,14 +1,14 @@
 {
-  "name": "机械师发电机",
+  "name": "机械师的引擎",
   "icon": "masterfulmachinery:mechanists_controller",
   "category": "patchouli:multiblock_structures",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "masterfulmachinery:mechanists_controller",
-      "title": "机械师发电机",
+      "title": "机械师的引擎",
       "link_recipe": true,
-      "text": "这是机械师发电机，建造这个多方块结构可以让你产生旋转动力用于机械动力模组。$(br)红石灯必须是打开状态机器才会正常工作。"
+      "text": "这是机械师的引擎，建造这个多方块结构可以让你产生机械动力模组所需的应力。$(br)红石灯必须激活，机器才能工作。"
     },
     {
       "type": "patchouli:multiblock",
