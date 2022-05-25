@@ -1,14 +1,14 @@
 {
-  "name": "神秘精炼厂",
+  "name": "魔法精炼厂",
   "icon": "masterfulmachinery:livingwood_controller",
   "category": "patchouli:multiblock_structures",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "masterfulmachinery:livingwood_controller",
-      "title": "神秘精炼厂",
+      "title": "魔法精炼厂",
       "link_recipe": true,
-      "text": "这是神秘精炼厂，可以把一件物品加上一种液体转化为第一阶段所需的关键液体。"
+      "text": "这是魔法精炼厂，可以把一件物品加上一种液体转化为第一阶段所需的关键液体。"
     },
     {
       "type": "patchouli:multiblock",

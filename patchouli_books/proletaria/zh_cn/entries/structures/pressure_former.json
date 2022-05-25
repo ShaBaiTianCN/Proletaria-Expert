@@ -8,7 +8,7 @@
       "item": "masterfulmachinery:pressure_former_controller",
       "title": "压力成型机",
       "link_recipe": true,
-      "text": "这是压力成型机，它将允许你制作应用能源2的处理器。"
+      "text": "这是压力成型机，它用于制作应用能源2的处理器。"
     },
     {
       "type": "patchouli:multiblock",
