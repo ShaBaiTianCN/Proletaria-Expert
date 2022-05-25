@@ -9,42 +9,42 @@
       "item": "emendatusenigmatica:lead_chunk",
       "title": "铅矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成铅矿石。"
+      "text": "炎矿兰能生成铅矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:quartz",
-      "title": "石英矿石",
+      "title": "下界石英矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成石英矿石。"
+      "text": "炎矿兰能生成下界石英矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:silver_chunk",
       "title": "银矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成银矿石。"
+      "text": "炎矿兰能生成银矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:gold_chunk",
       "title": "金矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成金矿石。"
+      "text": "炎矿兰能生成金矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:sulfur_gem",
       "title": "硫矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成硫矿石。"
+      "text": "炎矿兰能生成硫矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:diamond",
       "title": "钻石矿石",
       "link_recipe": true,
-      "text": "使用炎矿兰可以生成钻石矿石。"
+      "text": "炎矿兰能生成钻石矿石。"
     }
   ]
 }

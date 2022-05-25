@@ -9,28 +9,28 @@
       "item": "emendatusenigmatica:silver_chunk",
       "title": "银矿",
       "link_recipe": true,
-      "text": "只能在下界的Y98和Y46之间找到银矿。"
+      "text": "只能在下界的98层和46层之间找到银矿"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:quartz",
       "title": "下界石英矿",
       "link_recipe": true,
-      "text": "只能在下界的Y140和Y40之间找到下界石英矿"
+      "text": "只能在下界的140层和40层之间找到下界石英矿"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:sulfur_gem",
       "title": "硫矿",
       "link_recipe": true,
-      "text": "只能在下界的Y30和Y46之间找到硫矿。"
+      "text": "只能在下界的30层和46层之间找到硫矿"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:lead_chunk",
       "title": "铅矿",
       "link_recipe": true,
-      "text": "只能在下界Y62和Y10之间找到铅矿"
+      "text": "只能在下界的62层和10层之间找到铅矿" 
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "神秘维度矿井",
+  "name": "维度矿井",
   "icon": "occultism:dimensional_mineshaft",
   "category": "patchouli:ores",
   "sortnum": 6,
@@ -7,142 +7,142 @@
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:silver_chunk",
-      "title": " 银碎块",
+      "title": "银矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井能生成银碎块。"
+      "text": "神秘维度矿井能生成银矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:tin_chunk",
-      "title": "锡碎块",
+      "title": "锡矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井能生成锡碎块。"
+      "text": "神秘维度矿井能生成锡矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:coal",
       "title": "煤炭",
       "link_recipe": true,
-      "text": "使用神秘维度矿井能生成煤炭。"
+      "text": "神秘维度矿井能生成煤炭"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:lapis_lazuli",
       "title": "青金石",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成青金石"
+      "text": "神秘维度矿井能生成青金石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:lead_chunk",
-      "title": "铅碎块",
+      "title": "铅矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成铅碎块。"
+      "text": "神秘维度矿井能生成铅矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:glowstone_dust",
-      "title": "萤石粉",
+      "title": "荧石粉",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成萤石粉。"
+      "text": "神秘维度矿井能生成荧石粉"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:iron_chunk",
-      "title": "铁碎块",
+      "title": "铁矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成铁碎块。"
+      "text": "神秘维度矿井能生成铁矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:diamond",
       "title": "钻石",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成钻石。"
+      "text": "神秘维度矿井能生成钻石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:relic_ore",
-      "title": "遗物矿石",
+      "title": "遗物化石",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成遗物矿石"
+      "text": "神秘维度矿井能生成遗物化石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:quartz",
       "title": "下界石英",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成下界石英。"
+      "text": "神秘维度矿井能生成下界石英"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:bitumen_gem",
       "title": "沥青",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成沥青。"
+      "text": "神秘维度矿井能生成沥青"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:sulfur_gem",
       "title": "硫",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成硫"
+      "text": "神秘维度矿井能生成硫"
     },
     {
       "type": "patchouli:spotlight",
       "item": "betterendforge:thallasium_ore",
-      "title": "铊",
+      "title": "铊矿",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成铊。"
+      "text": "神秘维度矿井能生成铊矿"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:redstone",
       "title": "红石粉",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成红石粉。"
+      "text": "神秘维度矿井能生成红石粉"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:nebu_ore",
-      "title": "Nebu",
+      "title": "奈布矿石",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成 Nebu。"
+      "text": "神秘维度矿井能生成奈布矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:gold_chunk",
-      "title": "金碎块",
+      "title": "金矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成金碎块。"
+      "text": "神秘维度矿井能生成金矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:copper_chunk",
-      "title": "铜碎块",
+      "title": "铜矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成铜碎块。"
+      "text": "神秘维度矿井能生成铜矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:uranium_chunk",
-      "title": "铀碎块",
+      "title": "铀矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成铀碎块。"
+      "text": "神秘维度矿井能生成铀矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:zinc_chunk",
-      "title": "锌碎块",
+      "title": "锌矿块",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成锌碎块。"
+      "text": "神秘维度矿井能生成锌矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:emerald",
       "title": "绿宝石",
       "link_recipe": true,
-      "text": "使用神秘维度矿井生成绿宝石。"
+      "text": "神秘维度矿井能生成绿宝石"
     }
   ]
 }

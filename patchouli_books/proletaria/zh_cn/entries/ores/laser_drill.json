@@ -7,65 +7,65 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:quartz",
-      "title": "石英",
+      "title": "下界石英",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出石英"
+      "text": "工业先锋的镭射钻能生成下界石英"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:apatite_gem",
       "title": "磷灰石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出磷灰石。"
+      "text": "工业先锋的镭射钻能生成磷灰石。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:aluminum_chunk",
-      "title": "铝碎块",
+      "title": "铝矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铝碎块"
+      "text": "工业先锋的镭射钻能生成铝矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "betterendforge:thallasium_ore",
-      "title": "铊",
+      "title": "铊矿",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铊"
+      "text": "工业先锋的镭射钻能生成铊矿"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:emerald",
       "title": "绿宝石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出绿宝石"
+      "text": "工业先锋的镭射钻能生成绿宝石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:gold_chunk",
-      "title": "金碎块",
+      "title": "金矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出金碎块"
+      "text": "工业先锋的镭射钻能生成金矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:cobalt_chunk",
-      "title": "钴碎块",
+      "title": "钴矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出钴碎块"
+      "text": "工业先锋的镭射钻能生成钴矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:silver_chunk",
-      "title": "银碎块",
+      "title": "银矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出银碎块"
+      "text": "工业先锋的镭射钻能生成银矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:tin_chunk",
-      "title": "锡碎块",
+      "title": "锡矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出锡碎块"
+      "text": "工业先锋的镭射钻能生成锡矿块"
     },
     {
       "type": "patchouli:spotlight",
@@ -77,128 +77,128 @@
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:nickel_chunk",
-      "title": "镍碎块",
+      "title": "镍矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出镍碎块"
+      "text": "工业先锋的镭射钻能生成镍矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:zinc_chunk",
-      "title": "锌碎块",
+      "title": "锌矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出锌碎块"
+      "text": "工业先锋的镭射钻能生成锌矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:glowstone_dust",
       "title": "荧石粉",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出荧石粉"
+      "text": "工业先锋的镭射钻能生成荧石粉"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:diamond",
       "title": "钻石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出钻石"
+      "text": "工业先锋的镭射钻能生成钻石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:uranium_chunk",
-      "title": "铀碎块",
+      "title": "铀矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铀碎块"
+      "text": "使用工业先锋的镭射钻能生成铀矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:potassium_nitrate_gem",
       "title": "硝酸钾",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出硝酸钾"
+      "text": "工业先锋的镭射钻能生成硝酸钾"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:coal",
       "title": "煤炭",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出煤炭"
+      "text": "工业先锋的镭射钻能生成煤炭"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:lead_chunk",
-      "title": "铅碎块",
+      "title": "铅矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铅碎块"
+      "text": "工业先锋的镭射钻能生成铅矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:bitumen_gem",
       "title": "沥青",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出沥青"
+      "text": "工业先锋的镭射钻能生成沥青"
     },
     {
       "type": "patchouli:spotlight",
       "item": "appliedenergistics2:certus_quartz_crystal",
       "title": "赛特斯石英水晶",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出赛特斯石英水晶"
+      "text": "工业先锋的镭射钻能生成赛特斯石英水晶"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:redstone",
       "title": "红石粉",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出红石粉"
+      "text": "工业先锋的镭射钻能生成红石粉"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:copper_chunk",
-      "title": "铜碎块",
+      "title": "铜矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铜碎块"
+      "text": "工业先锋的镭射钻能生成铜矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:sulfur_gem",
       "title": "硫",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出硫"
+      "text": "工业先锋的镭射钻能生成硫"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:lapis_lazuli",
       "title": "青金石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出青金石"
+      "text": "工业先锋的镭射钻能生成青金石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:relic_ore",
-      "title": "遗物矿石",
+      "title": "遗物化石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出遗物矿石"
+      "text": "工业先锋的镭射钻能生成遗物化石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:iron_chunk",
-      "title": "铁碎块",
+      "title": "铁矿块",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出铁碎块"
+      "text": "工业先锋的镭射钻能生成铁矿块"
     },
     {
       "type": "patchouli:spotlight",
       "item": "botania:life_essence",
       "title": "盖亚之魂",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出盖亚之魂，但你的设置需要在AE（应用能源）2的空间维度上。"
+      "text": "工业先锋的镭射钻能生成盖亚之魂，但你需要设置在应用能源2的空间维度上。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:nebu_ore",
-      "title": "Nebu 矿",
+      "title": "奈布矿石",
       "link_recipe": true,
-      "text": "使用工业先锋的镭射钻可以产出Nebu矿"
+      "text": "工业先锋的镭射钻能生成奈布矿石"
     }
   ]
 }

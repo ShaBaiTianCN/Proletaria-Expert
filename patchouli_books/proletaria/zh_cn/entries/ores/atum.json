@@ -9,28 +9,28 @@
       "item": "emendatusenigmatica:gold_chunk",
       "title": "金矿石",
       "link_recipe": true,
-      "text": "只能在阿图姆Y32找到金矿石。"
+      "text": "只能在阿图姆的32层以下找到金矿石。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:diamond",
       "title": "钻石矿石",
       "link_recipe": true,
-      "text": "只能在阿图姆Y16找到钻石矿石。"
+      "text": "只能在阿图姆的16层以下找到钻石矿石。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:nebu_ore",
-      "title": "Nebu 矿石",
+      "title": "奈布矿石",
       "link_recipe": true,
-      "text": "只能在阿图姆Y64找到Nebu矿石。"
+      "text": "只能在阿图姆的64层以下找到奈布矿石。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "atum:relic_ore",
-      "title": "遗物矿石",
+      "title": "遗物化石",
       "link_recipe": true,
-      "text": "只能在阿图姆Y64找到遗物矿石。"
+      "text": "只能在阿图姆的64层以下找到遗物化石。"
     }
   ]
 }

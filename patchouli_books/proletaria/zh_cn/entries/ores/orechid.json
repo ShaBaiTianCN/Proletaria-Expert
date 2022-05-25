@@ -9,42 +9,42 @@
       "item": "emendatusenigmatica:iron_chunk",
       "title": "铁矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生铁矿石。"
+      "text": "凝矿兰能生成铁矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:tin_chunk",
       "title": "锡矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生锡矿石。"
+      "text": "凝矿兰能生成锡矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:copper_chunk",
       "title": "铜矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生铜矿石。"
+      "text": "凝矿兰能生成铜矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:zinc_chunk",
       "title": "锌矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生锌矿石。"
+      "text": "凝矿兰能生成锌矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:coal",
       "title": "煤炭矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生煤炭矿石。"
+      "text": "凝矿兰能生成煤炭矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:uranium_chunk",
       "title": "铀矿石",
       "link_recipe": true,
-      "text": "可以用凝矿兰产生铀矿石。"
+      "text": "凝矿兰能生成铀矿石"
     }
   ]
 }

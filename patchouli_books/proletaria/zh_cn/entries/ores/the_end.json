@@ -9,21 +9,21 @@
       "item": "emendatusenigmatica:cinnabar_gem",
       "title": "朱砂矿石",
       "link_recipe": true,
-      "text": "只能在末地Y36和Y24之间找到朱砂矿石。"
+      "text": "只能在末地的36层和24层之间找到朱砂矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:cobalt_chunk",
       "title": "钴矿石",
       "link_recipe": true,
-      "text": "只能在末地Y68和Y36之间找到钴矿石。"
+      "text": "只能在末地的68层和36层之间找到钴矿石"
     },
     {
       "type": "patchouli:spotlight",
       "item": "emendatusenigmatica:potassium_nitrate_gem",
       "title": "硝酸钾矿石",
       "link_recipe": true,
-      "text": "只能在末地Y52和Y38之间找到硝酸钾矿石。"
+      "text": "只能在末地的52层和38层之间找到硝酸钾矿石"
     }
   ]
 }
