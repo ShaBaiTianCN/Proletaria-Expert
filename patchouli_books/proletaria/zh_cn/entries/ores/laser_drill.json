@@ -193,12 +193,12 @@
       "link_recipe": true,
       "text": "使用工业先锋的镭射钻井可以产出盖亚之魂，但你的设置需要在AE（应用能源）2的空间维度上。"
     },
-  {
+    {
       "type": "patchouli:spotlight",
-    "item": "atum:nebu_ore",
+      "item": "atum:nebu_ore",
       "title": "Nebu 矿",
-    "link_recipe": true,
+      "link_recipe": true,
       "text": "使用工业先锋的镭射钻井可以产出Nebu矿"
-  }
+    }
   ]
-  }
+}
