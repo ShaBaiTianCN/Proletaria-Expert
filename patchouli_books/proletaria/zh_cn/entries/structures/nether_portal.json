@@ -8,7 +8,7 @@
       "item": "tconstruct:flint_and_bronze",
       "title": "下界传送门",
       "link_recipe": true,
-      "text": "标准的下界传送门，你需要通过整合包的进展才能进入下界。"
+      "text": "标准的下界传送门，你需在整合包中发展到一定阶段才能进入下界。"
     },
     {
       "type": "patchouli:multiblock",
