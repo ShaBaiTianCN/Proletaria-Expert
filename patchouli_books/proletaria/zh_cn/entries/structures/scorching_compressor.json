@@ -8,7 +8,7 @@
       "item": "masterfulmachinery:compressor_controller",
       "title": "炙热压缩机",
       "link_recipe": true,
-      "text": "这是炙热压缩机，他允许你制作压缩铁。"
+      "text": "这是炙热压缩机，它用于制作压缩铁。"
     },
     {
       "type": "patchouli:multiblock",
