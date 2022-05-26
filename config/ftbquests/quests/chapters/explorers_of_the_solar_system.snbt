@@ -3,7 +3,7 @@
 	group: "053C5D3100185318"
 	order_index: 2
 	filename: "explorers_of_the_solar_system"
-	title: "Explorers of the Solar System"
+	title: "太阳系的冒险家"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
