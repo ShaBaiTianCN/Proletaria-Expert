@@ -343,7 +343,7 @@
 			}]
 		}
 		{
-			title: "3x铜碎块"
+			title: "3x铜矿块"
 			icon: "emendatusenigmatica:copper_chunk"
 			tags: ["repeat"]
 			x: -7.0d
@@ -419,7 +419,7 @@
 			}]
 		}
 		{
-			title: "3x锌碎块"
+			title: "3x锌矿块"
 			icon: "emendatusenigmatica:zinc_chunk"
 			tags: ["repeat"]
 			x: -6.0d
@@ -544,7 +544,7 @@
 			}]
 		}
 		{
-			title: "3x锡碎块"
+			title: "3x锡矿块"
 			icon: "emendatusenigmatica:tin_chunk"
 			tags: ["repeat"]
 			x: -2.0d
@@ -569,7 +569,7 @@
 			}]
 		}
 		{
-			title: "3x铁碎块"
+			title: "3x铁矿块"
 			icon: "emendatusenigmatica:iron_chunk"
 			tags: ["repeat"]
 			x: -3.0d
