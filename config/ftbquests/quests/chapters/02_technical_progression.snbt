@@ -3,7 +3,7 @@
 	group: "5BC5B0C01671D322"
 	order_index: 1
 	filename: "02_technical_progression"
-	title: "02 - Technical Progression"
+	title: "02-发展科技"
 	icon: "atum:scarab"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -12,7 +12,7 @@
 			x: 4.0d
 			y: 23.0d
 			shape: "gear"
-			subtitle: "Refer to your BEIB for more information on how to build the Atum Portal"
+			subtitle: "查看BEIB获取搭建阿图姆传送门的信息"
 			dependencies: [
 				"602026820EB7E457"
 				"2C094E32ABFB194F"
@@ -47,10 +47,10 @@
 			]
 		}
 		{
-			title: "Juicy Tree Sap"
+			title: "多汁树液"
 			x: 4.0d
 			y: 16.0d
-			description: ["Place log in front to extract Latex"]
+			description: ["把原木放它脸上来提取胶乳"]
 			dependencies: ["2A4FE2014D1CCDD1"]
 			id: "053BEAD38B8AE0FF"
 			tasks: [{
@@ -79,7 +79,7 @@
 			]
 		}
 		{
-			title: "Iron and Tin"
+			title: "铁和锡"
 			x: 4.0d
 			y: 0.5d
 			dependencies: ["65704449FB9EC609"]
@@ -104,14 +104,14 @@
 			}]
 		}
 		{
-			title: "Botanist's Blaster"
+			title: "植物学家的高炉"
 			x: 4.061224489795926d
 			y: 2.2857142857142847d
 			shape: "circle"
-			subtitle: "Refer to your BEIB for more information on how to build it"
+			subtitle: "查看BEIB获取搭建它的信息"
 			description: [
-				"You can upgrade your existing Botanist's smelter by changing the sheetmetal blocks to iron sheetmetal"
-				"Botanist's Blaster is an upgrade to the Botanist's Smelter which allows you to make alloys"
+				"将金属部分换成铁来升级植物学家的冶炼厂"
+				"植物学家的高炉比植物学家的冶炼厂厉害，因为前者可以制作合金"
 			]
 			dependencies: [
 				"19762D650369ACDC"
@@ -147,7 +147,7 @@
 			}]
 		}
 		{
-			title: "Alloys!"
+			title: "合金！"
 			x: 4.0d
 			y: 6.5d
 			dependencies: ["0D3CDF7833CB5998"]
@@ -174,7 +174,7 @@
 			}]
 		}
 		{
-			title: "Advanced Smelting"
+			title: "高级熔炼"
 			x: 2.5d
 			y: 5.0d
 			shape: "circle"
@@ -229,7 +229,7 @@
 			}]
 		}
 		{
-			title: "Transportation Overload"
+			title: "超载运输"
 			x: 5.5d
 			y: 5.0d
 			shape: "circle"
@@ -257,7 +257,7 @@
 			]
 		}
 		{
-			title: "Leaky (PP) Fluids"
+			title: "漏水的流体管道"
 			x: 7.0d
 			y: 5.0d
 			shape: "circle"
@@ -277,7 +277,7 @@
 			}]
 		}
 		{
-			title: "Alloyed Machines"
+			title: "制作合金"
 			x: 5.5d
 			y: 8.5d
 			dependencies: ["3A98CF3F5D697435"]
@@ -295,7 +295,7 @@
 			}]
 		}
 		{
-			title: "Rotational Destruction"
+			title: "旋转破坏"
 			x: 7.0d
 			y: 8.5d
 			shape: "circle"
@@ -314,11 +314,11 @@
 			}]
 		}
 		{
-			title: "Coke Oven"
+			title: "焦炉"
 			icon: "immersiveengineering:coke_oven"
 			x: 2.5d
 			y: 10.0d
-			subtitle: "Read the Engineer's Manual for info on how to construct this structure."
+			subtitle: "在工程师手册上学习如何搭建这个结构"
 			dependencies: ["64D6136659D3D1A4"]
 			id: "117E98EA5942B297"
 			tasks: [
@@ -369,7 +369,7 @@
 			]
 		}
 		{
-			title: "Slippery Mess"
+			title: "脏又滑"
 			x: 2.5d
 			y: 11.5d
 			dependencies: [
@@ -390,7 +390,7 @@
 			}]
 		}
 		{
-			title: "Careful Treatment"
+			title: "谨慎处置"
 			x: 2.5d
 			y: 14.5d
 			dependencies: ["37595C7F784FAF24"]
@@ -409,7 +409,7 @@
 			}]
 		}
 		{
-			title: "Processing Planks"
+			title: "木材加工"
 			x: 2.5d
 			y: 13.0d
 			dependencies: ["580EBD898CD0069B"]
@@ -428,7 +428,7 @@
 			}]
 		}
 		{
-			title: "Wire Milling"
+			title: "线材轧制"
 			x: 5.5d
 			y: 10.5d
 			dependencies: ["46FD2806812A7291"]
@@ -446,7 +446,7 @@
 			}]
 		}
 		{
-			title: "Rotational Power"
+			title: "动能发电"
 			x: 5.5d
 			y: 14.5d
 			dependencies: ["25D6D970FCC4B411"]
@@ -464,7 +464,7 @@
 			}]
 		}
 		{
-			title: "First Electrical Power"
+			title: "第一个发电设备"
 			x: 4.0d
 			y: 14.5d
 			shape: "diamond"
@@ -489,7 +489,7 @@
 			}]
 		}
 		{
-			title: "Parts of a whole"
+			title: "水车的一部分"
 			x: 4.0d
 			y: 8.5d
 			dependencies: ["64D6136659D3D1A4"]
@@ -515,11 +515,11 @@
 			}]
 		}
 		{
-			title: "Putting magical byproducts to good use"
+			title: "善用副产物"
 			x: 1.5d
 			y: 11.5d
 			shape: "circle"
-			description: ["The mystical coal you have been getting from creating Mystical Lubricant can also help you get Coal Coke and Creosote Oil"]
+			description: ["神秘润滑油的副产物神秘煤炭也可以用来产焦煤和杂酚油"]
 			dependencies: [
 				"487CD160D4E4D76C"
 				"65704449FB9EC609"
@@ -539,11 +539,11 @@
 			}]
 		}
 		{
-			title: "It just works :O"
+			title: "像O一样运转"
 			x: 5.5d
 			y: 16.0d
 			shape: "circle"
-			description: ["First free (good) supply of Create's Rotation!"]
+			description: ["第一个用来白嫖应力的好东西！"]
 			dependencies: ["2A4FE2014D1CCDD1"]
 			size: 1.2d
 			id: "474238A43565EE04"
@@ -560,7 +560,7 @@
 			}]
 		}
 		{
-			title: "Rubber Production"
+			title: "生产橡胶"
 			x: 4.0d
 			y: 17.5d
 			dependencies: ["053BEAD38B8AE0FF"]
@@ -578,7 +578,7 @@
 			}]
 		}
 		{
-			title: "Dry and Gooey"
+			title: "又干又粘"
 			x: 4.0d
 			y: 19.0d
 			dependencies: ["55AB5E0D43CDB8AB"]
@@ -621,7 +621,7 @@
 			}]
 		}
 		{
-			title: "Mechanical Infusion!"
+			title: "机器注入！"
 			x: 5.0d
 			y: 21.5d
 			dependencies: ["2B18BEFF52CE535E"]
@@ -639,7 +639,7 @@
 			}]
 		}
 		{
-			title: "Runic Infusion"
+			title: "符文注入"
 			x: 2.5d
 			y: 8.5d
 			dependencies: ["3A98CF3F5D697435"]
@@ -657,10 +657,10 @@
 			}]
 		}
 		{
-			title: "Slaughter House"
+			title: "屠宰场"
 			x: 3.0d
 			y: 21.5d
-			description: ["Slaughter animals to gain Pink Slime"]
+			description: ["杀死生物获取粉红黏液"]
 			dependencies: ["2B18BEFF52CE535E"]
 			id: "2C094E32ABFB194F"
 			tasks: [{
@@ -676,7 +676,7 @@
 			}]
 		}
 		{
-			title: "Don't let the bird sit on them..."
+			title: "不要让鸟坐上去…"
 			x: 5.5d
 			y: 12.5d
 			dependencies: ["7ACE1F323DFBB950"]
