@@ -3,7 +3,7 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 5
 	filename: "immersive_engineering"
-	title: "Immersive Engineering"
+	title: "沉浸工艺"
 	icon: {
 		id: "immersiveengineering:hammer"
 		Count: 1b
@@ -28,7 +28,7 @@
 				{
 					id: "581DB4BFC220B86C"
 					type: "observation"
-					title: "Diesel Generator"
+					title: "柴油发电机"
 					icon: "immersiveengineering:diesel_generator"
 					timer: 0L
 					observe_type: 0
@@ -78,7 +78,7 @@
 			}]
 		}
 		{
-			title: "Distillation Tower"
+			title: "精馏塔"
 			icon: "immersivepetroleum:distillationtower"
 			x: 1.5d
 			y: -5.5d
@@ -123,7 +123,7 @@
 				{
 					id: "20FA5685F2369CB1"
 					type: "observation"
-					title: "Distillation Tower"
+					title: "精馏塔"
 					icon: "immersivepetroleum:distillationtower"
 					timer: 0L
 					observe_type: 0
@@ -147,7 +147,7 @@
 				{
 					id: "5C21077962B1C8D5"
 					type: "observation"
-					title: "Coker"
+					title: "焦化器"
 					icon: "immersivepetroleum:cokerunit"
 					timer: 0L
 					observe_type: 0
@@ -241,7 +241,7 @@
 				{
 					id: "5A758C299907664F"
 					type: "observation"
-					title: "Auto Workbench"
+					title: "自动化工程师装配台"
 					icon: "immersiveengineering:auto_workbench"
 					timer: 0L
 					observe_type: 0
@@ -300,7 +300,7 @@
 				{
 					id: "5BA61D7D72C36853"
 					type: "observation"
-					title: "Sawmill"
+					title: "锯木机"
 					icon: "immersiveengineering:sawmill"
 					timer: 0L
 					observe_type: 0
@@ -359,7 +359,7 @@
 				{
 					id: "0A8CE15968CD01EF"
 					type: "observation"
-					title: "Refinery"
+					title: "炼油厂"
 					icon: "immersiveengineering:refinery"
 					timer: 0L
 					observe_type: 0
@@ -418,7 +418,7 @@
 				{
 					id: "2B31EE439EBCDA62"
 					type: "observation"
-					title: "Industrial Fermenter"
+					title: "工业发酵机"
 					icon: "immersiveengineering:fermenter"
 					timer: 0L
 					observe_type: 0
@@ -950,7 +950,7 @@
 			}]
 		}
 		{
-			title: "Advanced Blast Furnace"
+			title: "强化高炉"
 			icon: "immersiveengineering:advanced_blast_furnace"
 			x: 1.0d
 			y: -4.5d
@@ -971,7 +971,7 @@
 				{
 					id: "7AF2993667EDA649"
 					type: "observation"
-					title: "Advanced Blast Furnace"
+					title: "强化高炉"
 					icon: "immersiveengineering:advanced_blast_furnace"
 					timer: 0L
 					observe_type: 0
@@ -988,7 +988,7 @@
 		{
 			x: 2.0d
 			y: -4.5d
-			subtitle: "Faster Faster Faster"
+			subtitle: "快，更快！"
 			dependencies: ["5A14257A3C77C084"]
 			id: "638643105BCB2C13"
 			tasks: [{
