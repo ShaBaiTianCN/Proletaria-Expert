@@ -3,7 +3,7 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 2
 	filename: "botania"
-	title: "Botania"
+	title: "植物魔法"
 	icon: {
 		id: "botania:mana_tablet"
 		Count: 1b
@@ -130,8 +130,8 @@
 			disable_toast: true
 			x: 13.5d
 			y: -9.5d
-			subtitle: "Use these to move mana from one mana pool to another, or to power the altar."
-			description: ["Did you know you can put wool on these to jazz them up a bit."]
+			subtitle: "使用它们将魔力从一个魔力池发射到另一个魔力池，或者为祭坛提供魔力。"
+			description: ["你知道吗，你可以把羊毛套在这些魔力发射器上面，可以让他们更爵士（安静）一点。"]
 			dependencies: ["5C3FD999EBEF7AC1"]
 			id: "3DBFAF9D41A22576"
 			tasks: [{
@@ -279,7 +279,7 @@
 			}]
 		}
 		{
-			title: "Dice of Fate"
+			title: "命运骰子"
 			icon: {
 				id: "botania:dice"
 				Count: 1b
@@ -288,10 +288,10 @@
 			disable_toast: true
 			x: 14.0d
 			y: 8.0d
-			subtitle: "Godly Accessories"
+			subtitle: "神之配件"
 			description: [
-				"The Dice of Fate will grant you one of six items."
-				"Each one provide a unique ability."
+				"使用命运骰子后随机获得使用者从未获得过的6种遗物中的一个。"
+				"每一种遗物都能提供不同的能力。"
 			]
 			dependencies: ["47789E5352F01897"]
 			id: "5A6B40D2CBA71371"
@@ -443,7 +443,7 @@
 		{
 			x: 13.5d
 			y: -8.0d
-			subtitle: "Great Mana Spreader"
+			subtitle: "精灵魔力发射器"
 			dependencies: [
 				"5020DB616698F559"
 				"3DBFAF9D41A22576"
@@ -464,7 +464,7 @@
 		{
 			x: 13.5d
 			y: -6.5d
-			subtitle: "Greater Mana Spreader"
+			subtitle: "盖亚魔力发射器"
 			dependencies: ["6D330D20D86EF515"]
 			id: "706BAB62B659BF76"
 			tasks: [{
@@ -1456,8 +1456,8 @@
 		{
 			x: 27.0d
 			y: -11.0d
-			subtitle: "Traverse the Terrain"
-			description: ["Sojourner's Sash will help you travel through terrain, increasing your speed, jump height, step assist, etc."]
+			subtitle: "地形穿梭者"
+			description: ["旅居者腰带会帮你穿梭于各种地形之间，提高你的移动速度和跳跃高度、减少摔落伤害等。"]
 			dependencies: ["64D6136659D3D1A4"]
 			id: "42A0460D1A3EA87B"
 			tasks: [{
@@ -1479,11 +1479,11 @@
 		{
 			x: 27.0d
 			y: -9.5d
-			subtitle: "Journey to the Far Lands"
+			subtitle: "远方之地旅行"
 			description: [
-				"Upgraded version of the Sojourner's Sash"
+				"旅居者腰带的升级版。"
 				""
-				"Can do everything it can, but... MORE O.O"
+				"它可以做旅居者腰带的所有事，甚至。。。更多！O.O"
 			]
 			dependencies: ["42A0460D1A3EA87B"]
 			id: "64C89B4CF9EC5A4D"
@@ -1506,11 +1506,11 @@
 		{
 			x: 26.0d
 			y: -10.0d
-			subtitle: "And you don't stop movin' ..."
+			subtitle: "而且你会不停地走下去。。。"
 			description: [
-				"Alternative to Sojourner's Sash."
+				"旅居者腰带的替代品。"
 				""
-				"Allows you to accelerate over a long period of time, eventually gaining up to ludicrous speeds!"
+				"允许你长时间进行加速，最终会达到不可思议的速度！"
 			]
 			dependencies: ["42A0460D1A3EA87B"]
 			id: "1419C3C054111C58"
@@ -1533,11 +1533,11 @@
 		{
 			x: 28.0d
 			y: -10.0d
-			subtitle: "Back off..."
+			subtitle: "后退。。。"
 			description: [
-				"Alternate to the Sojourner's Sash."
+				"旅居者腰带的替代品"
 				""
-				"When worn, this sash will negate all knockback from outside sources."
+				"穿戴时，可以使玩家免疫一切对玩家造成的击退效果。"
 			]
 			dependencies: ["42A0460D1A3EA87B"]
 			id: "6A17E96322091F42"
@@ -1563,8 +1563,8 @@
 		{
 			x: 25.0d
 			y: -8.5d
-			subtitle: "Scouting enemies"
-			description: ["Reveals nearby enemies by making them glow!"]
+			subtitle: "侦察敌人"
+			description: ["使用它将你周围的怪物现形，即让怪物有发光的轮廓。"]
 			dependencies: ["7BA72C3085BEE40C"]
 			id: "053A6CC1615178CD"
 			tasks: [{
@@ -1586,8 +1586,8 @@
 		{
 			x: 25.0d
 			y: -7.5d
-			subtitle: "Botanist's Best Friend"
-			description: ["Allows you to see Mana Bursts through walls and the working range of functional flora."]
+			subtitle: "植物魔法学家最好的伙伴"
+			description: ["可以让你透过方块看见功能花的工作范围和魔法脉冲。"]
 			dependencies: ["5C3FD999EBEF7AC1"]
 			id: "44A2F91A2F8FA83D"
 			tasks: [{
@@ -1609,8 +1609,8 @@
 		{
 			x: 25.0d
 			y: -6.5d
-			subtitle: "Friend of my Enemy is their Enemy?"
-			description: ["Turns mobs who damage you against other hostile mobs in the area."]
+			subtitle: "敌人的朋友是他们的敌人吗？"
+			description: ["将伤害你的怪物变成一定范围内其他怪物的敌对生物。"]
 			dependencies: ["0673E6B7DB43030E"]
 			id: "0A140E96BD50E758"
 			tasks: [{
@@ -1852,7 +1852,7 @@
 			tasks: [{
 				id: "1AFE169343F416D4"
 				type: "custom"
-				title: "Lexica Botania (Elven Edition)"
+				title: "植物魔法辞典（精灵版）"
 				icon: {
 					id: "botania:lexicon"
 					Count: 1b
@@ -2354,11 +2354,11 @@
 		{
 			x: 10.0d
 			y: 0.5d
-			subtitle: "Botanist's Robes"
+			subtitle: "植物魔法学家的长袍"
 			description: [
-				"While providing little protection, the Manaweave Robes grant reduced mana cost on all usable equipment."
+				"虽然提供的护甲值很少，但魔源长袍可以降低所有消耗魔力的装备的魔力消耗。"
 				""
-				"Set Bonus: Greatly reduces mana costs"
+				"套装加成：大幅降低魔力消耗"
 			]
 			dependencies: ["5C3FD999EBEF7AC1"]
 			id: "0B2C1FC0A766B22F"
@@ -2774,10 +2774,10 @@
 		{
 			x: 14.5d
 			y: -2.0d
-			subtitle: "Sometimes you don't need the big guns."
+			subtitle: "有时候，你不需要一个大枪。"
 			description: [
-				"Stone of Temperance will limit the ability of an empowered Terra Shatterer to a simple 3x3 region, regardless of the mana within the tool."
-				"This also works with the Terra Truncator"
+				"节制之石会限制激活状态下泰拉粉碎者的挖掘区域为3x3的平面，而不管工具内的魔力值如何。"
+				"这也同样适用于泰拉断裂者。"
 			]
 			dependencies: ["5B55E874D028D0F8"]
 			id: "7AAA021AFE0B342B"
@@ -3102,7 +3102,7 @@
 		{
 			x: 29.0d
 			y: -8.5d
-			subtitle: "Curios storage"
+			subtitle: "存储饰品"
 			dependencies: ["186FC53FE0375088"]
 			id: "28F5E4499C0581D3"
 			tasks: [{
@@ -3761,7 +3761,7 @@
 		{
 			x: 12.5d
 			y: -9.5d
-			subtitle: "Redstone-activated Mana Spreader"
+			subtitle: "用红石激活的魔力发射器"
 			dependencies: ["3DBFAF9D41A22576"]
 			id: "720C358F180A5EBB"
 			tasks: [{
@@ -3780,11 +3780,11 @@
 			disable_toast: true
 			x: 15.5d
 			y: 0.5d
-			subtitle: "One of the best they've got"
+			subtitle: "他们拥有最好的之一"
 			description: [
-				"One of the best sets for defense."
+				"最好的防御套装之一"
 				""
-				"Set Bonus: Reduces mana costs; Regens while hungry; Passive mana regen"
+				"全套属性：减少魔力的消耗、即使饥饿值未满时也能回复生命、被动产生魔力值。"
 			]
 			dependencies: ["01EFE69DFC60C612"]
 			id: "22CC1BC9645437A7"
@@ -3804,11 +3804,11 @@
 			disable_toast: true
 			x: 18.5d
 			y: 0.5d
-			subtitle: "Pretty Please"
+			subtitle: "太猛男了"
 			description: [
-				"Good defensive armor, grants additional bonuses to Pixies from the Great Fairy Ring"
+				"还不错的盔甲，可以提高从精灵之戒中召唤小精灵的概率。"
 				""
-				"Set Bonus: Slightly reduced mana costs; Chance for Pixies to apply potion effects"
+				"全套属性：略微减少魔力值的消耗、可以给予小精灵额外的药水效果。"
 			]
 			dependencies: ["745B991667372CE8"]
 			id: "2589AAE8F358C7F5"
@@ -3828,11 +3828,11 @@
 			disable_toast: true
 			x: 12.5d
 			y: 0.5d
-			subtitle: "Good all-around armor set"
+			subtitle: "不错的全能型套装"
 			description: [
-				"Uses mana to repair itself."
+				"它使用魔力值修复自己的耐久值。"
 				""
-				"Set Bonus: Slightly reduced mana costs"
+				"全套属性：略微减少魔力值的消耗。"
 			]
 			dependencies: ["5C3FD999EBEF7AC1"]
 			id: "65F5D8334153FB1B"
