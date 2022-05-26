@@ -5,20 +5,20 @@
 /***/ (() => {
 
 onEvent('jei.information', function (event) {
-  event.add('appliedenergistics2:charged_certus_quartz_crystal', ['Charged Certus Quartz can be crafted by throwing Certus Quartz into lightning.', 'You can easily create lightning by placing and lighting a Fulminating Grenades/Explosives']);
-  event.add('betterendforge:glowing_bulb', ['Found growing in the Blossoming Spires in The End']);
-  event.add('atum:emmer_flour', ['Combine (right click) with Water to turn it into Emmer Dough']);
-  event.add('minecraft:ender_eye', ['§5§lReputation:§r 23', '§5Signs:§r Wicked, Mind, Soul, Mind', '§3Items:', ' Ender Pearl', ' Blaze Powder', ' Obsidian Dust', ' Soul Shard']);
-  event.add('minecraft:ender_eye', ['Toss items on the ground and chant the signs.', 'Reduces your §5§lReputation§r by 3.']);
-  event.add('eidolon:unholy_symbol', ['§5§lReputation:§r 4', '§5Signs:§r Wicked, Soul, Wicked, Soul', '§3Items:', ' Pewter Inlay']);
-  event.add('eidolon:unholy_symbol', ['Toss items on the ground and chant the signs.']);
-  event.add('astralsorcery:celestial_crystal', ['Toss Rock Crystal and Stardust into Liquid Starlight']);
-  event.add('astralsorcery:rock_crystal', ['Obtained from breaking Rock Crystal Ore.']);
-  event.add('astralsorcery:attuned_celestial_crystal', ['Attune Celestial Crystal using the Attunement Altar.', 'Consult the Astral Tome on how to build the Attunement Altar.']);
-  event.add('astralsorcery:attuned_rock_crystal', ['Attune Rock Crystal using the Attunement Altar.', 'Consult the Astral Tome on how to build the Attunement Altar.']);
-  event.add('astralsorcery:perk_gem_day', ['Toss Rock Crystal and Illumination Powder into Liquid Starlight to spawn a gem.', 'It will convert into Ilium Dynamism Gem during the middle of the day, once fully grown.']);
-  event.add('astralsorcery:perk_gem_night', ['Toss Rock Crystal and Illumination Powder into Liquid Starlight to spawn a gem.', 'It will convert into Fengarum Dynamism Gem during the middle of the night, once fully grown.']);
-  event.add('astralsorcery:perk_gem_sky', ['Toss Rock Crystal and Illumination Powder into Liquid Starlight to spawn a gem.', 'It will convert into Ourium Dynamism Gem during dawn or dusk, once fully grown.']);
+  event.add('appliedenergistics2:charged_certus_quartz_crystal', ['将赛特斯石英水晶扔到雷击里可以制作充能赛特斯石英水晶。', '你可以通过投掷震天雷击弹或点燃震天雷击炸药来轻松地召唤闪电']);
+  event.add('betterendforge:glowing_bulb', ['在末地的盛花尖塔群戏中生长']);
+  event.add('atum:emmer_flour', ['组合（右键）水将其转换为粗麦面团']);
+  event.add('minecraft:ender_eye', ['§5§l声望：§r23', '§5符文：§r邪恶、心灵、魂魄、心灵', '§3物品：', '末影珍珠', '烈焰粉', '黑曜石粉', '魂之碎片']);
+  event.add('minecraft:ender_eye', ['将物品扔在地上并吟唱符文。', '将减少3点的§5§l声望§r。']);
+  event.add('eidolon:unholy_symbol', ['§5§l声望：§r4', '§5符文：§r邪恶、魂魄、邪恶、魂魄', '§3物品：', '锡镴嵌材']);
+  event.add('eidolon:unholy_symbol', ['将物品扔在地上并吟唱符文。']);
+  event.add('astralsorcery:celestial_crystal', ['将水晶石与星尘一起投入星能液中。']);
+  event.add('astralsorcery:rock_crystal', ['挖掘水晶石矿石获得。']);
+  event.add('astralsorcery:attuned_celestial_crystal', ['使用共鸣祭坛使天辉水晶石与星座共鸣。', '关于如何搭建共鸣祭坛，请参考星芒宝典。']);
+  event.add('astralsorcery:attuned_rock_crystal', ['使用共鸣祭坛使水晶石与星座共鸣。', '关于如何搭建共鸣祭坛，请参考星芒宝典。']);
+  event.add('astralsorcery:perk_gem_day', ['将水晶石与辉光粉一同投入星能液中，以此来制作宝石。', '如果在白天生长完毕，将会转化为烈阳宝石。']);
+  event.add('astralsorcery:perk_gem_night', ['将水晶石与辉光粉一同投入星能液中，以此来制作宝石。', '如果在夜晚生长完毕，将转化为皎月宝石。']);
+  event.add('astralsorcery:perk_gem_sky', ['将水晶石与辉光粉一同投入星能液中，以此来制作宝石。', '如果在日出或日落生长完毕，将转化为天空宝石。']);
 });
 
 /***/ })
@@ -385,28 +385,28 @@ onEvent('item.tooltip', function (event) {
   }
 
   event.addAdvanced('thermal:lumium_glass', function (item, advanced, text) {
-    text.add(1, Text.red('Wither Resistant'));
+    text.add(1, Text.red('耐凋灵'));
   });
   event.addAdvanced('thermal:enderium_glass', function (item, advanced, text) {
-    text.add(1, Text.red('Wither Resistant'));
+    text.add(1, Text.red('耐凋灵'));
   });
   event.addAdvanced('astralsorcery:starmetal', function (item, advanced, text) {
-    text.add(1, Text.red('Wither Resistant'));
+    text.add(1, Text.red('耐凋灵'));
   });
   event.addAdvanced('patchouli:guide_book', function (item, advanced, text) {
     if (item.nbt['patchouli:book'] == 'patchouli:proletaria') {
-      text.add(1, Text.gold('Proletaria Information Pamphlet'));
+      text.add(1, Text.gold('Proletaria 信息手册'));
     }
   });
   event.addAdvanced('eidolon:codex', function (item, adv, text) {
-    text.add(3, 'Some recipes were changed. Please use JEI for accurate recipes');
+    text.add(3, '部分配方已改变，请使用JEI查询准确的配方');
   });
 });
 
 function tooltip(event, tool) {
   event.addAdvanced(tool.id, function (item, advanced, text) {
-    text.add(1, Text.red('This tool is disabled and only used for crafting'));
-    text.add(2, Text.yellow('Use Tinker Tools instead'));
+    text.add(1, Text.red('此工具已禁用，仅供合成'));
+    text.add(2, Text.yellow('请使用匠魂工具替代'));
   });
 }
 ;// CONCATENATED MODULE: ./modules/client.js
