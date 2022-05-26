@@ -3,7 +3,7 @@
 	group: "053C5D3100185318"
 	order_index: 0
 	filename: "storage"
-	title: "Storage"
+	title: "存储"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -25,7 +25,7 @@
 			}]
 		}
 		{
-			title: "Copper chest/upgrade"
+			title: "铜箱子/升级"
 			x: -8.5d
 			y: -3.5d
 			dependencies: ["1886F3CC4687B30F"]
@@ -58,7 +58,7 @@
 			}]
 		}
 		{
-			title: "Iron chest/upgrade"
+			title: "铁箱子/升级"
 			x: -7.5d
 			y: -2.5d
 			dependencies: ["32E61E964CE89281"]
@@ -91,7 +91,7 @@
 			}]
 		}
 		{
-			title: "Silver chest/upgrade"
+			title: "银箱子/升级"
 			x: -8.5d
 			y: -1.5d
 			dependencies: ["25DD7A6AF3E9321E"]
@@ -124,7 +124,7 @@
 			}]
 		}
 		{
-			title: "Gold chest/upgrade"
+			title: "金箱子/升级"
 			x: -7.5d
 			y: -0.5d
 			dependencies: ["7BD3AAF7E133CE5D"]
@@ -157,7 +157,7 @@
 			}]
 		}
 		{
-			title: "Diamond chest/upgrade"
+			title: "钻石箱子/升级"
 			x: -7.5d
 			y: 0.5d
 			dependencies: ["459DC8E8A7FA5934"]
@@ -190,7 +190,7 @@
 			}]
 		}
 		{
-			title: "Obsidian chest/upgrade"
+			title: "黑曜石箱子/升级"
 			x: -8.5d
 			y: 2.5d
 			dependencies: ["43614DB048B58010"]
@@ -223,7 +223,7 @@
 			}]
 		}
 		{
-			title: "Crystal chest/upgrade"
+			title: "水晶箱子/升级"
 			x: -6.5d
 			y: 2.5d
 			dependencies: ["43614DB048B58010"]
@@ -289,7 +289,7 @@
 			}]
 		}
 		{
-			title: "Iron barrel/upgrade"
+			title: "铁储物桶/升级"
 			x: -0.5d
 			y: -2.5d
 			dependencies: ["3E93A03C47DB5171"]
@@ -322,7 +322,7 @@
 			}]
 		}
 		{
-			title: "Gold barrel/upgrade"
+			title: "金储物桶/升级"
 			x: -0.5d
 			y: -0.5d
 			dependencies: ["7E4C6B4D2B4182A7"]
@@ -355,7 +355,7 @@
 			}]
 		}
 		{
-			title: "Diamond barrel/upgrade"
+			title: "钻石储物桶/升级"
 			x: -0.5d
 			y: 0.5d
 			dependencies: ["5FC0322942E086E0"]
@@ -388,7 +388,7 @@
 			}]
 		}
 		{
-			title: "Obsidian barrel/upgrade"
+			title: "黑曜石储物桶/升级"
 			x: -1.5d
 			y: 2.5d
 			dependencies: ["40AF6C5420AFD7F0"]
@@ -421,7 +421,7 @@
 			}]
 		}
 		{
-			title: "Crystal barrel/upgrade"
+			title: "水晶储物桶/升级"
 			x: 0.5d
 			y: 2.5d
 			dependencies: ["40AF6C5420AFD7F0"]
@@ -495,7 +495,7 @@
 			tasks: [{
 				id: "7F0FDCC39A43CF7C"
 				type: "item"
-				title: "Any Storage Drawer"
+				title: "任意存储抽屉"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -652,7 +652,7 @@
 			}]
 		}
 		{
-			title: "Copper barrel/upgrade"
+			title: "铜储物桶/升级"
 			x: -1.5d
 			y: -3.5d
 			dependencies: ["6FEF0C604E9AAFB5"]
@@ -685,7 +685,7 @@
 			}]
 		}
 		{
-			title: "Silver barrel/upgrade"
+			title: "银储物桶/升级"
 			x: -1.5d
 			y: -1.5d
 			dependencies: ["29DFB1A614F491C8"]
