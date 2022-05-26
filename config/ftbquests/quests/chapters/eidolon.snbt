@@ -3,7 +3,7 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 4
 	filename: "eidolon"
-	title: "Eidolon"
+	title: "幻梦"
 	icon: "eidolon:worktable"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -30,7 +30,7 @@
 			disable_toast: true
 			x: -0.5d
 			y: -0.5d
-			subtitle: "Consult the ritual page of your Ars Ecclesia on how to craft the Sanguine Items"
+			subtitle: "请参考秘仪教典中的深红之物仪式"
 			dependencies: ["3222D3893BC54B97"]
 			id: "61F4B112DB326FF7"
 			tasks: [{
