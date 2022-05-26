@@ -8,9 +8,9 @@ onEvent('jei.information', function (event) {
   event.add('appliedenergistics2:charged_certus_quartz_crystal', ['将赛特斯石英水晶扔到雷击里可以制作充能赛特斯石英水晶。', '你可以通过投掷震天雷击弹或点燃震天雷击炸药来轻松地召唤闪电']);
   event.add('betterendforge:glowing_bulb', ['在末地的盛花尖塔群戏中生长']);
   event.add('atum:emmer_flour', ['组合（右键）水将其转换为粗麦面团']);
-  event.add('minecraft:ender_eye', ['§5§l声望：§r23', '§5符文：§r邪恶、心灵、魂魄、心灵', '§3物品：', ' 末影珍珠', '烈焰粉', ' 黑曜石粉', ' 魂之碎片']);
+  event.add('minecraft:ender_eye', ['§5§l声望：§r23', '§5符文：§r邪恶、心灵、魂魄、心灵', '§3物品：', '末影珍珠', '烈焰粉', '黑曜石粉', '魂之碎片']);
   event.add('minecraft:ender_eye', ['将物品扔在地上并吟唱符文。', '将减少3点的§5§l声望§r。']);
-  event.add('eidolon:unholy_symbol', ['§5§l声望：§r4', '§5符文：§r邪恶、魂魄、邪恶、魂魄', '§3物品：', ' 锡镴嵌材']);
+  event.add('eidolon:unholy_symbol', ['§5§l声望：§r4', '§5符文：§r邪恶、魂魄、邪恶、魂魄', '§3物品：', '锡镴嵌材']);
   event.add('eidolon:unholy_symbol', ['将物品扔在地上并吟唱符文。']);
   event.add('astralsorcery:celestial_crystal', ['将水晶石与星尘一起投入星能液中。']);
   event.add('astralsorcery:rock_crystal', ['挖掘水晶石矿石获得。']);
