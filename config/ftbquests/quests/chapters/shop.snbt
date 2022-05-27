@@ -269,7 +269,7 @@
 			]
 		}
 		{
-			title: "3x铜板方块"
+			title: "3x铜板金属"
 			icon: "immersiveengineering:sheetmetal_copper"
 			tags: ["repeat"]
 			x: -7.0d
@@ -888,7 +888,7 @@
 			}]
 		}
 		{
-			title: "2x附魔粉"
+			title: "2x赋魔粉"
 			icon: "eidolon:enchanted_ash"
 			tags: ["repeat"]
 			x: 2.0d
@@ -1038,7 +1038,7 @@
 			}]
 		}
 		{
-			title: "1x岩石切割机"
+			title: "1x凿岩机刀片"
 			icon: {
 				id: "immersiveengineering:rockcutter"
 				Count: 1b
@@ -1123,7 +1123,7 @@
 			}]
 		}
 		{
-			title: "1xHOP石墨粉"
+			title: "1x高定向热解石墨粉"
 			icon: "immersiveengineering:dust_hop_graphite"
 			tags: ["repeat"]
 			x: 5.0d
