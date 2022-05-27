@@ -85,12 +85,12 @@
 			}]
 		}
 		{
-			title: "Girafi墓地地图"
+			title: "Girafi墓穴勘探地图"
 			icon: "atum:idol_of_labor"
 			tags: ["repeat"]
 			x: -3.5d
 			y: -2.5d
-			subtitle: "请务必在阿图姆纬度领取该任务奖励"
+			subtitle: "请务必在阿图姆维度领取该任务奖励"
 			dependencies: ["6233041CE3AB0D9D"]
 			optional: true
 			id: "5389057126174250"
@@ -235,7 +235,7 @@
 			rewards: [{
 				id: "40D9E9517CD5AFCA"
 				type: "command"
-				title: "Girafi墓地地图"
+				title: "Girafi墓穴勘探地图"
 				icon: {
 					id: "minecraft:filled_map"
 					Count: 1b
@@ -318,7 +318,7 @@
 			}]
 		}
 		{
-			title: "煮熟的短叶丝兰果"
+			title: "熟短叶丝兰果"
 			icon: "byg:joshua_fruit"
 			tags: ["repeat"]
 			x: -1.5d
@@ -341,7 +341,7 @@
 			}]
 		}
 		{
-			title: "熟鹌鹑"
+			title: "熟鹌鹑肉"
 			icon: "atum:quail_cooked"
 			tags: ["repeat"]
 			x: -0.5d
@@ -456,7 +456,7 @@
 			}]
 		}
 		{
-			title: "250克熟饭"
+			title: "熟饭（250克）"
 			icon: {
 				id: "sushigocrafting:cooked_rice"
 				Count: 1b
