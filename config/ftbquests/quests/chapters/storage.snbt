@@ -289,7 +289,7 @@
 			}]
 		}
 		{
-			title: "铁储物桶/升级"
+			title: "铁桶/升级"
 			x: -0.5d
 			y: -2.5d
 			dependencies: ["3E93A03C47DB5171"]
@@ -322,7 +322,7 @@
 			}]
 		}
 		{
-			title: "金储物桶/升级"
+			title: "金桶/升级"
 			x: -0.5d
 			y: -0.5d
 			dependencies: ["7E4C6B4D2B4182A7"]
@@ -355,7 +355,7 @@
 			}]
 		}
 		{
-			title: "钻石储物桶/升级"
+			title: "钻石桶/升级"
 			x: -0.5d
 			y: 0.5d
 			dependencies: ["5FC0322942E086E0"]
@@ -388,7 +388,7 @@
 			}]
 		}
 		{
-			title: "黑曜石储物桶/升级"
+			title: "黑曜石桶/升级"
 			x: -1.5d
 			y: 2.5d
 			dependencies: ["40AF6C5420AFD7F0"]
@@ -421,7 +421,7 @@
 			}]
 		}
 		{
-			title: "水晶储物桶/升级"
+			title: "水晶桶/升级"
 			x: 0.5d
 			y: 2.5d
 			dependencies: ["40AF6C5420AFD7F0"]
@@ -495,7 +495,7 @@
 			tasks: [{
 				id: "7F0FDCC39A43CF7C"
 				type: "item"
-				title: "任意存储抽屉"
+				title: "任意储物抽屉"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -652,7 +652,7 @@
 			}]
 		}
 		{
-			title: "铜储物桶/升级"
+			title: "铜桶/升级"
 			x: -1.5d
 			y: -3.5d
 			dependencies: ["6FEF0C604E9AAFB5"]
@@ -685,7 +685,7 @@
 			}]
 		}
 		{
-			title: "银储物桶/升级"
+			title: "银桶/升级"
 			x: -1.5d
 			y: -1.5d
 			dependencies: ["29DFB1A614F491C8"]
