@@ -791,7 +791,7 @@
 			}]
 		}
 		{
-			title: "2x塑料片（工业先锋模组）"
+			title: "2x塑料片（工业先锋）"
 			icon: "industrialforegoing:plastic"
 			tags: ["repeat"]
 			x: -2.0d
@@ -1327,7 +1327,7 @@
 			]
 		}
 		{
-			title: "2x塑料板（气动工艺模组）"
+			title: "2x塑料片（气动工艺）"
 			icon: "pneumaticcraft:plastic"
 			tags: ["repeat"]
 			x: 9.0d
