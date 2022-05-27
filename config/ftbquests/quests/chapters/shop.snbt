@@ -693,7 +693,7 @@
 			}]
 		}
 		{
-			title: "3x铁板方块"
+			title: "3x铁板金属"
 			icon: "immersiveengineering:sheetmetal_iron"
 			tags: ["repeat"]
 			x: -2.0d
