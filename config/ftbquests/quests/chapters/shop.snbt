@@ -1294,7 +1294,7 @@
 			}]
 		}
 		{
-			title: "1x血晶球\\&1x黑球体"
+			title: "1x血晶球 \\& 1x黑球体"
 			icon: "kubejs:blood_orb"
 			tags: ["repeat"]
 			x: 10.0d
