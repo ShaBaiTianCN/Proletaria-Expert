@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 2
 	filename: "shop__general"
-	title: "Shop - General"
+	title: "商店-通用"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
@@ -34,12 +34,12 @@
 	]
 	quests: [
 		{
-			title: "Ocean Temple Map"
+			title: "海底神殿地图"
 			icon: "minecraft:prismarine"
 			tags: ["repeat"]
 			x: -4.5d
 			y: -2.5d
-			subtitle: "ONLY CLAIM THE REWARD IF YOU ARE IN THE OVERWORLD"
+			subtitle: "请务必在主世界领取该任务奖励"
 			dependencies: ["42CFA6A52E641A25"]
 			id: "1D4094CD6BD77F56"
 			tasks: [
@@ -71,7 +71,7 @@
 			rewards: [{
 				id: "6C1BDDDF7936CB1E"
 				type: "command"
-				title: "Ocean Monument Map"
+				title: "海底神殿地图"
 				icon: {
 					id: "minecraft:filled_map"
 					Count: 1b
@@ -85,12 +85,12 @@
 			}]
 		}
 		{
-			title: "Girafi Tomb exploration map"
+			title: "Girafi墓穴勘探地图"
 			icon: "atum:idol_of_labor"
 			tags: ["repeat"]
 			x: -3.5d
 			y: -2.5d
-			subtitle: "ONLY CLAIM THE REWARD IF YOUR IN THE ATUM DIMENSION"
+			subtitle: "请务必在阿图姆维度领取该任务奖励"
 			dependencies: ["6233041CE3AB0D9D"]
 			optional: true
 			id: "5389057126174250"
@@ -98,7 +98,7 @@
 				{
 					id: "1C90D751BE7D7F0E"
 					type: "item"
-					title: "Any Sapphire Relic"
+					title: "任意蓝宝石遗物"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -132,7 +132,7 @@
 				{
 					id: "3EF0EE943716A69F"
 					type: "item"
-					title: "Any Ruby Relic"
+					title: "任意红宝石遗物"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -166,7 +166,7 @@
 				{
 					id: "2B4D2022347DA8F5"
 					type: "item"
-					title: "Any Emerald Relic"
+					title: "任意绿宝石遗物"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -200,7 +200,7 @@
 				{
 					id: "7228EF71CEBFCF58"
 					type: "item"
-					title: "Any Diamond Relic"
+					title: "任意钻石遗物"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -235,7 +235,7 @@
 			rewards: [{
 				id: "40D9E9517CD5AFCA"
 				type: "command"
-				title: "Girafi Tomb exploration map"
+				title: "Girafi墓穴勘探地图"
 				icon: {
 					id: "minecraft:filled_map"
 					Count: 1b
@@ -249,7 +249,7 @@
 			}]
 		}
 		{
-			title: "Cooked Salmon"
+			title: "熟鲑鱼"
 			icon: "minecraft:cooked_salmon"
 			tags: ["repeat"]
 			x: -1.5d
@@ -272,7 +272,7 @@
 			}]
 		}
 		{
-			title: "Cooked Mutton"
+			title: "熟羊肉"
 			icon: "minecraft:cooked_mutton"
 			tags: ["repeat"]
 			x: -1.5d
@@ -295,7 +295,7 @@
 			}]
 		}
 		{
-			title: "Cooked Camel"
+			title: "熟骆驼肉"
 			icon: "atum:camel_cooked"
 			tags: ["repeat"]
 			x: -1.5d
@@ -318,7 +318,7 @@
 			}]
 		}
 		{
-			title: "Cooked Joshua Fruit"
+			title: "熟短叶丝兰果"
 			icon: "byg:joshua_fruit"
 			tags: ["repeat"]
 			x: -1.5d
@@ -341,7 +341,7 @@
 			}]
 		}
 		{
-			title: "Cooked Quail"
+			title: "熟鹌鹑肉"
 			icon: "atum:quail_cooked"
 			tags: ["repeat"]
 			x: -0.5d
@@ -364,7 +364,7 @@
 			}]
 		}
 		{
-			title: "Cooked Rabbit"
+			title: "熟兔肉"
 			icon: "minecraft:cooked_rabbit"
 			tags: ["repeat"]
 			x: -0.5d
@@ -387,7 +387,7 @@
 			}]
 		}
 		{
-			title: "Cooked Cod"
+			title: "熟鳕鱼"
 			icon: "minecraft:cooked_cod"
 			tags: ["repeat"]
 			x: -0.5d
@@ -410,7 +410,7 @@
 			}]
 		}
 		{
-			title: "Cooked Porkchop"
+			title: "熟猪排"
 			icon: "minecraft:cooked_porkchop"
 			tags: ["repeat"]
 			x: 0.5d
@@ -433,7 +433,7 @@
 			}]
 		}
 		{
-			title: "Cooked Chicken"
+			title: "熟鸡肉"
 			icon: "minecraft:cooked_chicken"
 			tags: ["repeat"]
 			x: 0.5d
@@ -456,7 +456,7 @@
 			}]
 		}
 		{
-			title: "Cooked Rice 250 gram"
+			title: "熟饭（250克）"
 			icon: {
 				id: "sushigocrafting:cooked_rice"
 				Count: 1b
