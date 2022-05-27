@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 3
 	filename: "shop"
-	title: "Shop - Stages"
+	title: "商店-阶段"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
@@ -190,7 +190,7 @@
 	]
 	quests: [
 		{
-			title: "2x Floral fertalizer"
+			title: "2x花肥"
 			icon: "botania:fertilizer"
 			tags: ["repeat"]
 			x: -7.0d
@@ -215,7 +215,7 @@
 			}]
 		}
 		{
-			title: "5x random Mystical flower's"
+			title: "5x随机神秘花"
 			icon: "botania:orange_mystical_flower"
 			tags: ["repeat"]
 			x: -6.0d
@@ -269,7 +269,7 @@
 			]
 		}
 		{
-			title: "3x Copper sheetmetal"
+			title: "3x铜板金属"
 			icon: "immersiveengineering:sheetmetal_copper"
 			tags: ["repeat"]
 			x: -7.0d
@@ -294,7 +294,7 @@
 			}]
 		}
 		{
-			title: "2x Shaft's"
+			title: "2x传动杆"
 			icon: "create:shaft"
 			tags: ["repeat"]
 			x: -6.0d
@@ -319,7 +319,7 @@
 			}]
 		}
 		{
-			title: "1x Andesite casing"
+			title: "1x安山机壳"
 			icon: "create:andesite_casing"
 			tags: ["repeat"]
 			x: -7.0d
@@ -343,7 +343,7 @@
 			}]
 		}
 		{
-			title: "3x Copper Chunk's"
+			title: "3x铜矿块"
 			icon: "emendatusenigmatica:copper_chunk"
 			tags: ["repeat"]
 			x: -7.0d
@@ -369,7 +369,7 @@
 			}]
 		}
 		{
-			title: "16x Grout"
+			title: "16x水泥"
 			icon: "tconstruct:grout"
 			tags: ["repeat"]
 			x: -6.0d
@@ -394,7 +394,7 @@
 			}]
 		}
 		{
-			title: "2x Drum's of the wild"
+			title: "2x狂野之鼓"
 			icon: "botania:drum_wild"
 			tags: ["repeat"]
 			x: -7.0d
@@ -419,7 +419,7 @@
 			}]
 		}
 		{
-			title: "3x Zinc Chunk's"
+			title: "3x锌矿块"
 			icon: "emendatusenigmatica:zinc_chunk"
 			tags: ["repeat"]
 			x: -6.0d
@@ -445,7 +445,7 @@
 			}]
 		}
 		{
-			title: "8x Compressed Iron Ingot's"
+			title: "8x压缩铁锭"
 			icon: "pneumaticcraft:ingot_iron_compressed"
 			tags: ["repeat"]
 			x: 9.0d
@@ -470,7 +470,7 @@
 			}]
 		}
 		{
-			title: "1x Starmetal Ingot"
+			title: "1x星辉锭"
 			icon: "astralsorcery:starmetal_ingot"
 			tags: ["repeat"]
 			x: 10.0d
@@ -494,7 +494,7 @@
 			}]
 		}
 		{
-			title: "2x Aluminum Ingot's"
+			title: "2x铝锭"
 			icon: "emendatusenigmatica:aluminum_ingot"
 			tags: ["repeat"]
 			x: 9.0d
@@ -519,7 +519,7 @@
 			}]
 		}
 		{
-			title: "4x Treated Wood Planks"
+			title: "4x防腐木板"
 			icon: "immersiveengineering:treated_wood_horizontal"
 			tags: ["repeat"]
 			x: -3.0d
@@ -544,7 +544,7 @@
 			}]
 		}
 		{
-			title: "3x Tin Chunk's"
+			title: "3x锡矿块"
 			icon: "emendatusenigmatica:tin_chunk"
 			tags: ["repeat"]
 			x: -2.0d
@@ -569,7 +569,7 @@
 			}]
 		}
 		{
-			title: "3x Iron Chunk's"
+			title: "3x铁矿块"
 			icon: "emendatusenigmatica:iron_chunk"
 			tags: ["repeat"]
 			x: -3.0d
@@ -594,7 +594,7 @@
 			}]
 		}
 		{
-			title: "2x Brass Ingot's"
+			title: "2x黄铜锭"
 			icon: "emendatusenigmatica:brass_ingot"
 			tags: ["repeat"]
 			x: -2.0d
@@ -619,7 +619,7 @@
 			}]
 		}
 		{
-			title: "2x Bronze Ingot's"
+			title: "2x青铜锭"
 			icon: "emendatusenigmatica:bronze_ingot"
 			tags: ["repeat"]
 			x: -3.0d
@@ -644,7 +644,7 @@
 			}]
 		}
 		{
-			title: "2x Livingrock"
+			title: "2x活石"
 			icon: "botania:livingrock"
 			tags: ["repeat"]
 			x: -6.0d
@@ -669,7 +669,7 @@
 			}]
 		}
 		{
-			title: "1x Rune of Fire"
+			title: "1x火之符文"
 			icon: "botania:rune_fire"
 			tags: ["repeat"]
 			x: -3.0d
@@ -693,7 +693,7 @@
 			}]
 		}
 		{
-			title: "3x Iron Sheetmetal"
+			title: "3x铁板金属"
 			icon: "immersiveengineering:sheetmetal_iron"
 			tags: ["repeat"]
 			x: -2.0d
@@ -718,7 +718,7 @@
 			}]
 		}
 		{
-			title: "2x Livingwood"
+			title: "2x活木"
 			icon: "botania:livingwood"
 			tags: ["repeat"]
 			x: -6.0d
@@ -743,7 +743,7 @@
 			}]
 		}
 		{
-			title: "1x Copper Coil Block"
+			title: "1x铜线圈"
 			icon: "immersiveengineering:coil_lv"
 			tags: ["repeat"]
 			x: -2.0d
@@ -767,7 +767,7 @@
 			}]
 		}
 		{
-			title: "1x Pity Machine Frame"
+			title: "1x低级机器框架"
 			icon: "industrialforegoing:machine_frame_pity"
 			tags: ["repeat"]
 			x: -3.0d
@@ -791,7 +791,7 @@
 			}]
 		}
 		{
-			title: "2x I.F Plastic"
+			title: "2x塑料片（工业先锋）"
 			icon: "industrialforegoing:plastic"
 			tags: ["repeat"]
 			x: -2.0d
@@ -816,7 +816,7 @@
 			}]
 		}
 		{
-			title: "1x Zombie Heart"
+			title: "1x僵尸之心"
 			icon: "eidolon:zombie_heart"
 			tags: ["repeat"]
 			x: 1.0d
@@ -840,7 +840,7 @@
 			}]
 		}
 		{
-			title: "1x Wraith Heart"
+			title: "1x幽魂之心"
 			icon: "eidolon:wraith_heart"
 			tags: ["repeat"]
 			x: 2.0d
@@ -864,7 +864,7 @@
 			}]
 		}
 		{
-			title: "1x Soul Shard"
+			title: "1x魂之碎片"
 			icon: "eidolon:soul_shard"
 			tags: ["repeat"]
 			x: 1.0d
@@ -888,7 +888,7 @@
 			}]
 		}
 		{
-			title: "2x Enchanted Ash"
+			title: "2x赋魔粉"
 			icon: "eidolon:enchanted_ash"
 			tags: ["repeat"]
 			x: 2.0d
@@ -913,7 +913,7 @@
 			}]
 		}
 		{
-			title: "2x Nebu Ingot's"
+			title: "2x奈布锭"
 			icon: "atum:nebu_ingot"
 			tags: ["repeat"]
 			x: 1.0d
@@ -938,7 +938,7 @@
 			}]
 		}
 		{
-			title: "8x Nether Quartz"
+			title: "8x下界石英"
 			icon: "minecraft:quartz"
 			tags: ["repeat"]
 			x: 1.0d
@@ -963,7 +963,7 @@
 			}]
 		}
 		{
-			title: "2x Pewter Ingot's"
+			title: "2x锡镴锭"
 			icon: "eidolon:pewter_ingot"
 			tags: ["repeat"]
 			x: 2.0d
@@ -988,7 +988,7 @@
 			}]
 		}
 		{
-			title: "2x Arcane Gold Ingot's"
+			title: "2x秘金锭"
 			icon: "eidolon:arcane_gold_ingot"
 			tags: ["repeat"]
 			x: 2.0d
@@ -1013,7 +1013,7 @@
 			}]
 		}
 		{
-			title: "4x Tattered Cloth"
+			title: "4x褴褛之布"
 			icon: "eidolon:tattered_cloth"
 			tags: ["repeat"]
 			x: 1.0d
@@ -1038,7 +1038,7 @@
 			}]
 		}
 		{
-			title: "1x Rockcutter Blade"
+			title: "1x凿岩机刀片"
 			icon: {
 				id: "immersiveengineering:rockcutter"
 				Count: 1b
@@ -1074,7 +1074,7 @@
 			}]
 		}
 		{
-			title: "4x Steel Ingot's"
+			title: "4x钢锭"
 			icon: "emendatusenigmatica:steel_ingot"
 			tags: ["repeat"]
 			x: 5.0d
@@ -1099,7 +1099,7 @@
 			}]
 		}
 		{
-			title: "1x Afrit Essence"
+			title: "1x火灵灵髓"
 			icon: "occultism:afrit_essence"
 			tags: ["repeat"]
 			x: 5.0d
@@ -1123,7 +1123,7 @@
 			}]
 		}
 		{
-			title: "1x HOP Graphite Dust"
+			title: "1x高定向热解石墨粉"
 			icon: "immersiveengineering:dust_hop_graphite"
 			tags: ["repeat"]
 			x: 5.0d
@@ -1147,7 +1147,7 @@
 			}]
 		}
 		{
-			title: "1x Cobalt Gear"
+			title: "1x钴齿轮"
 			icon: "emendatusenigmatica:cobalt_gear"
 			tags: ["repeat"]
 			x: 6.0d
@@ -1171,7 +1171,7 @@
 			}]
 		}
 		{
-			title: "2x Aquamarine"
+			title: "2x海蓝宝石"
 			icon: "astralsorcery:aquamarine"
 			tags: ["repeat"]
 			x: 6.0d
@@ -1196,7 +1196,7 @@
 			}]
 		}
 		{
-			title: "2x Iesnium Ingot's"
+			title: "2x艾瑟金属锭"
 			icon: "occultism:iesnium_ingot"
 			tags: ["repeat"]
 			x: 6.0d
@@ -1221,7 +1221,7 @@
 			}]
 		}
 		{
-			title: "1x Simple Machine Frame"
+			title: "1x中级机器框架"
 			icon: "industrialforegoing:machine_frame_simple"
 			tags: ["repeat"]
 			x: 6.0d
@@ -1245,7 +1245,7 @@
 			}]
 		}
 		{
-			title: "2x Printed Silicon"
+			title: "2x硅板"
 			icon: "appliedenergistics2:printed_silicon"
 			tags: ["repeat"]
 			x: 10.0d
@@ -1270,7 +1270,7 @@
 			}]
 		}
 		{
-			title: "1x Unassembled PCB"
+			title: "1x未组装的印刷电路板"
 			icon: "pneumaticcraft:unassembled_pcb"
 			tags: ["repeat"]
 			x: 10.0d
@@ -1294,7 +1294,7 @@
 			}]
 		}
 		{
-			title: "1x Blood Orb \\& 1x Dark Orb"
+			title: "1x血晶球 \\& 1x黑球体"
 			icon: "kubejs:blood_orb"
 			tags: ["repeat"]
 			x: 10.0d
@@ -1327,7 +1327,7 @@
 			]
 		}
 		{
-			title: "2x PNCR Plastic"
+			title: "2x塑料片（气动工艺）"
 			icon: "pneumaticcraft:plastic"
 			tags: ["repeat"]
 			x: 9.0d
