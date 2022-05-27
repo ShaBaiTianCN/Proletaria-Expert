@@ -3,27 +3,27 @@
 	group: "5BC5B0C01671D322"
 	order_index: 0
 	filename: "01_the_natural_beginnings"
-	title: "01 - The Natural Beginnings"
+	title: "01 - 自然的起源"
 	icon: "botania:orechid"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "How much wood..."
+			title: "多少原木……"
 			x: -1.0d
 			y: -3.0d
-			subtitle: "Wait, we have vein-miner??"
+			subtitle: "等会儿，我们有连锁采矿？？？"
 			description: [
-				"This pack contains &dFTB Ultimine&r which allows you to mine a number of blocks of the same type at once."
+				"此整合包安装了&d连锁破坏&r，能让你一次性挖掘大量的同一方块。"
 				""
-				"To use it, hold down the key (grave key ( ` ) by default, usually located next to '1'), and destroy a block"
+				"按住按键（默认（ ` ），一般位于数字1键左侧）时破坏方块来使用连锁破坏。"
 			]
 			dependencies: ["6E99F4CACF47CDE2"]
 			id: "075C0290C0F62A3F"
 			tasks: [{
 				id: "4DA1FE2582607F54"
 				type: "item"
-				title: "Logs"
+				title: "原木"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -41,16 +41,16 @@
 			}]
 		}
 		{
-			title: "Mystical Flowers"
+			title: "神秘花"
 			x: -2.5d
 			y: -1.5d
-			description: ["You will need a bunch of these flower."]
+			description: ["你会需要一束神秘花。"]
 			dependencies: ["075C0290C0F62A3F"]
 			id: "5ED8F3A643F2FA98"
 			tasks: [{
 				id: "449972155AA5FB31"
 				type: "item"
-				title: "Mystical Flowers"
+				title: "神秘花"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -68,10 +68,10 @@
 			}]
 		}
 		{
-			title: "Mystical Growth"
+			title: "魔法生长"
 			x: -2.5d
 			y: -3.0d
-			description: ["Helpful if you are missing some mystical flowers"]
+			description: ["在你缺失某些神秘花时非常有用。"]
 			dependencies: ["075C0290C0F62A3F"]
 			id: "13E0B0EF7964442D"
 			tasks: [{
@@ -87,7 +87,7 @@
 			}]
 		}
 		{
-			title: "Crafting Capabilities"
+			title: "合成能力"
 			x: -1.0d
 			y: -1.5d
 			dependencies: ["075C0290C0F62A3F"]
@@ -119,7 +119,7 @@
 			}]
 		}
 		{
-			title: "Tool Crafters"
+			title: "工具制作台"
 			x: -1.0d
 			y: 0.0d
 			dependencies: ["5A488F66FA951BE3"]
@@ -128,7 +128,7 @@
 				{
 					id: "73B76B20A4088599"
 					type: "item"
-					title: "Part Builder"
+					title: "部件制造台"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -218,7 +218,7 @@
 				{
 					id: "7F6361A63B5ECB36"
 					type: "item"
-					title: "Tool Station"
+					title: "工匠站"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -321,15 +321,15 @@
 			]
 		}
 		{
-			title: "For your shearing pleasure"
+			title: "为了你剪羊毛的乐趣"
 			x: 0.5d
 			y: 1.2000000000000002d
 			shape: "circle"
-			subtitle: "Use the Kama to shear sheep or carve a pumpkin. Any version of the Kama will complete this quest not just the wooden version."
+			subtitle: "使用短刃镰来剪羊毛或雕刻南瓜。包括木制在内的任何短刃镰都能完成这项任务。"
 			description: [
 				""
-				"Kama is a mix of Hoe and Shears."
-				"Can be used to shear sheep, till farmland and carve pumpkins"
+				"短刃镰是锄和剪刀的结合。"
+				"可以用于剪羊毛、犁地和雕刻南瓜。"
 			]
 			dependencies: ["5874905D11B2CFD1"]
 			size: 1.2d
@@ -337,7 +337,7 @@
 			tasks: [{
 				id: "473683CC68B5E5C3"
 				type: "item"
-				title: "Kama"
+				title: "短刃镰"
 				item: {
 					id: "tconstruct:kama"
 					Count: 1b
@@ -393,26 +393,26 @@
 			}]
 		}
 		{
-			title: "Miner's Best Friend"
+			title: "矿工最好的伙伴"
 			x: -1.0d
 			y: 1.5d
-			subtitle: "Any version of the pickaxe will complete this quest not just the wooden version."
+			subtitle: "包括木制版本在内的任何镐子都能完成这项任务。"
 			description: [
-				"Mining Levels:"
-				"Stone = Wooden Tools"
-				"Iron = Stone Tools"
-				"Diamond = Iron Tools"
-				"Cobalt = Diamond Tools"
-				"Tier 5+ = Special Modded Tools"
+				"挖局等级："
+				"石头=木制工具"
+				"铁=石制工具"
+				"钻石=铁制工具"
+				"钴=钻石工具"
+				"5级以上=特殊模组工具"
 				""
-				"The levels typically represent similarity to another ore, so Iron Level means it similar to Iron Ore, i.e. Stone Tools or above"
+				"以上等级通常代表与其相似的矿物，因此，铁等级表示铁和与铁相似的矿石，也就是需要石制工具等级或更高。"
 			]
 			dependencies: ["5874905D11B2CFD1"]
 			id: "15AF8C343F59F68D"
 			tasks: [{
 				id: "3B6F79A648E4AA88"
 				type: "item"
-				title: "Pickaxe"
+				title: "镐子"
 				item: {
 					id: "tconstruct:pickaxe"
 					Count: 1b
@@ -458,7 +458,7 @@
 			}]
 		}
 		{
-			title: "Mining Expedition"
+			title: "采矿工作"
 			x: -1.0d
 			y: 3.0d
 			dependencies: ["15AF8C343F59F68D"]
@@ -467,7 +467,7 @@
 				{
 					id: "606D51D0DE2B31E8"
 					type: "item"
-					title: "Cobblestone"
+					title: "圆石"
 					item: {
 						id: "itemfilters:tag"
 						Count: 1b
@@ -496,11 +496,11 @@
 			}]
 		}
 		{
-			title: "Hack \\& Slash"
+			title: "劈来砍去"
 			x: 0.5d
 			y: -1.1392857142857151d
 			shape: "circle"
-			subtitle: "Any version of the sword will complete this quest not just the wooden version."
+			subtitle: "包括木制在内的任意剑都能完成这项任务。"
 			description: [""]
 			dependencies: ["5874905D11B2CFD1"]
 			size: 1.2d
@@ -508,7 +508,7 @@
 			tasks: [{
 				id: "4D9C7D67429BC863"
 				type: "item"
-				title: "Sword or Knife"
+				title: "剑或匕首"
 				item: {
 					id: "itemfilters:or"
 					Count: 1b
@@ -616,13 +616,13 @@
 			}]
 		}
 		{
-			title: "Man-made Flowers?!"
+			title: "人造花？！"
 			x: -1.0d
 			y: 7.5d
 			shape: "rsquare"
 			description: [
-				"First steps into Botania."
-				"The Petal Apothecary will be used throughout to create flora for generating and using mana."
+				"植物魔法的第一步。"
+				"花药台将自始至终用于制作产能类和功能类植物。"
 			]
 			dependencies: ["6E1D82728C0C382F"]
 			id: "58D898509FBB2E02"
@@ -650,11 +650,11 @@
 			]
 		}
 		{
-			title: "First Mana Gen"
+			title: "第一朵产能花"
 			x: -3.0d
 			y: 7.5d
 			description: [
-				"Mana generation will become vital. You will want to look into primitive ways to automate endoflames and more advanced flowers later."
+				"生产魔力会变得至关重要。你会需要使用原始方法来自动化火红莲或之后更高级的产能花。"
 				"{image:proletaria:textures/quests/endoflame_1.png width:186 height:131 align:1}"
 			]
 			dependencies: ["58D898509FBB2E02"]
@@ -688,12 +688,12 @@
 			}]
 		}
 		{
-			title: "Imbuing Life"
+			title: "注入活力"
 			x: 1.0d
 			y: 7.5d
 			shape: "diamond"
 			description: [
-				"You will need a lot of Livingwood and Livingrock. It might be in your interest to make several of these; and automate them in near future."
+				"你会需要大量活木和活石。你可能会有兴趣多做一些白雏菊，并在不久的将来实现自动化。"
 				"{image:proletaria:textures/quests/pure_daisy.png width:335 height:100 align:1}"
 			]
 			dependencies: ["58D898509FBB2E02"]
@@ -712,7 +712,7 @@
 			}]
 		}
 		{
-			title: "Living Organisms"
+			title: "活有机物"
 			x: 1.0d
 			y: 9.5d
 			dependencies: ["5A717605CD10A91F"]
@@ -737,7 +737,7 @@
 			}]
 		}
 		{
-			title: "Mana Capacity"
+			title: "魔力容器"
 			x: -1.0d
 			y: 9.5d
 			shape: "diamond"
@@ -776,12 +776,12 @@
 			}]
 		}
 		{
-			title: "Mystical Refinery"
+			title: "神秘精炼厂"
 			icon: "masterfulmachinery:livingwood_controller"
 			x: 1.0d
 			y: 11.0d
 			shape: "diamond"
-			subtitle: "Refer to your PIP for more information on how to build it"
+			subtitle: "参考Proletaria信息手册来获取更多搭建信息。"
 			description: ["{image:proletaria:textures/quests/mystical_refinery.png width:112 height:100 align:1}"]
 			dependencies: ["35F931F9711E2230"]
 			size: 1.5d
@@ -856,10 +856,10 @@
 			}]
 		}
 		{
-			title: "Mystic Organisms"
+			title: "神秘有机物"
 			x: 4.0d
 			y: 11.0d
-			description: ["If you place the weak creosote into the world, then throw in either livingrock or livingwood to get their respective counterpart's"]
+			description: ["将神秘润滑油和活石或活木输入神秘精炼厂来获取对应方块。"]
 			dependencies: ["487CD160D4E4D76C"]
 			id: "3CE3DE068CD5EC01"
 			tasks: [
@@ -882,7 +882,7 @@
 			}]
 		}
 		{
-			title: "Rotational Madness"
+			title: "旋转狂欢"
 			x: 4.0d
 			y: 13.0d
 			dependencies: ["3CE3DE068CD5EC01"]
@@ -912,14 +912,14 @@
 			]
 		}
 		{
-			title: "Botanist's Rotational Generator"
+			title: "机械师的引擎"
 			icon: "masterfulmachinery:mechanists_controller"
 			x: 4.0d
 			y: 15.0d
 			shape: "diamond"
-			subtitle: "Refer to your PIP for more information on how to build it"
+			subtitle: "参考Proletaria信息手册来获取更多搭建信息。"
 			description: [
-				"Botanist's Rotational Generator is your first step into powering your Create machinery. It will consume Mana and provide you with Create rotation"
+				"机械师的引擎是驱动机械动力模组机器的第一步。它会消耗魔力来产生应力。"
 				"{image:proletaria:textures/quests/rotational_generator.png width:186 height:121 align:1}"
 			]
 			dependencies: ["5BA8EE142D4447FB"]
@@ -955,7 +955,7 @@
 				{
 					id: "6A469360138132EC"
 					type: "item"
-					title: "Any #forge:glass"
+					title: "任意#forge:glass"
 					item: {
 						id: "itemfilters:tag"
 						Count: 1b
@@ -978,19 +978,19 @@
 			}]
 		}
 		{
-			title: "Botanist's Smelter"
+			title: "植物学家的冶炼厂"
 			icon: "masterfulmachinery:livingrock_controller"
 			x: -0.5d
 			y: 15.0d
 			shape: "diamond"
-			subtitle: "Refer to your PIP for more information on how to build it"
+			subtitle: "参考Proletaria信息手册来获取更多搭建信息。"
 			description: [
-				"Botanist's Smelter will be very useful in getting the most out of your ore chunks so far."
-				"You should invest some resource into making this."
+				"植物学家的冶炼厂是很实用的矿物处理方式。"
+				"制作它需要你投资一些资源。"
 				""
-				"An upgraded version of this structure will be required later on."
+				"后续会需要这个结构的升级版本。"
 				"{image:proletaria:textures/quests/botanist_smelter.png width:236 height:173 align:1}"
-				"(Do not cook your friends. It is considered rude.)"
+				"（不要炙烤你的朋友，这很粗鲁！）"
 			]
 			dependencies: ["163B268AEE887915"]
 			size: 1.5d
@@ -1041,7 +1041,7 @@
 				{
 					id: "62CCEE62EA94CD85"
 					type: "item"
-					title: "Any #forge:glass"
+					title: "任意#forge:glass"
 					item: {
 						id: "itemfilters:tag"
 						Count: 1b
@@ -1112,7 +1112,7 @@
 			}]
 		}
 		{
-			title: "Grinding for more!"
+			title: "为了增产研磨！"
 			x: 6.0d
 			y: 15.0d
 			shape: "circle"
@@ -1132,7 +1132,7 @@
 			}]
 		}
 		{
-			title: "Farming Trees!"
+			title: "植树！"
 			x: 4.0d
 			y: 17.5d
 			dependencies: ["163B268AEE887915"]
@@ -1201,15 +1201,15 @@
 			}]
 		}
 		{
-			title: "Botanist's Sawmill"
+			title: "植物学家的锯木厂"
 			icon: "masterfulmachinery:mysticwood_controller"
 			x: 1.75d
 			y: 17.50578231292515d
 			shape: "diamond"
-			subtitle: "Refer to PIP for more information on how to build it"
+			subtitle: "参考Proletaria信息手册来获取更多搭建信息。"
 			description: [
-				"This is your first way of obtaining more planks from your logs"
-				"This will also open up a way of making more advanced frames later on down the line."
+				"这是你从原木获取更多木板的第一种方法。"
+				"这将为以后制作更高级的框架铺设好道路。"
 				"{image:proletaria:textures/quests/botanist_sawmill.png width:259 height:121 align:1 fit:true}"
 			]
 			dependencies: ["277B3BE2AFC54306"]
@@ -1273,7 +1273,7 @@
 				{
 					id: "61C6BFB506BACE18"
 					type: "item"
-					title: "Any #forge:glass"
+					title: "任意#forge:glass"
 					item: {
 						id: "itemfilters:tag"
 						Count: 1b
@@ -1292,7 +1292,7 @@
 			}]
 		}
 		{
-			title: "Are we making cookies?"
+			title: "你在做曲奇吗？"
 			x: -0.5d
 			y: 17.5d
 			dependencies: [
@@ -1320,7 +1320,7 @@
 			}]
 		}
 		{
-			title: "A little bit of flowering balance"
+			title: "一点开花平衡"
 			x: -3.0d
 			y: 9.5d
 			dependencies: [
@@ -1341,7 +1341,7 @@
 			}]
 		}
 		{
-			title: "Ahhh mystical balance"
+			title: "ohhh魔力平衡"
 			x: -3.0d
 			y: 18.5d
 			dependencies: [
@@ -1362,7 +1362,7 @@
 			}]
 		}
 		{
-			title: "I AM GROUT!"
+			title: "我是一块砖！"
 			x: -0.5d
 			y: 19.5d
 			dependencies: [
@@ -1383,7 +1383,7 @@
 			}]
 		}
 		{
-			title: "Smelting Fundamentals"
+			title: "熔炼基础"
 			x: -0.5d
 			y: 22.0d
 			dependencies: ["7B3406231D0293DC"]
@@ -1401,11 +1401,11 @@
 			}]
 		}
 		{
-			title: "Controlling the Heat"
+			title: "掌控热量"
 			x: -1.75d
 			y: 22.0d
 			description: [
-				"Tinker's Melter (and also the smeltery) will allow you to smelt ore chunk, and in the future build your best tools!"
+				"匠魂的熔化炉（包括冶炼炉）能让你熔化矿物并在将来制作最好的工具！"
 				"{image:proletaria:textures/quests/melter.png width:120 height:103 align:1}"
 			]
 			dependencies: ["16C914DB3F8E4605"]
@@ -1471,7 +1471,7 @@
 			x: -3.0d
 			y: 24.0d
 			shape: "gear"
-			description: ["Orechids will be your entry into getting your next ores!"]
+			description: ["凝矿兰能让你让你获取下一级的矿物！"]
 			dependencies: ["12EB0BE590B05169"]
 			size: 2.0d
 			id: "65704449FB9EC609"
@@ -1507,10 +1507,10 @@
 			]
 		}
 		{
-			title: "Processing Metals"
+			title: "金属加工"
 			x: -1.0d
 			y: 4.5d
-			subtitle: "You can wash chunks in water by throwing them in it to gain metal nuggets"
+			subtitle: "你可以把矿物碎块扔进水中来获取金属粒"
 			dependencies: ["0EFE8AF0D5AC7B2B"]
 			id: "37238B4A644CE574"
 			tasks: [
@@ -1533,11 +1533,11 @@
 			}]
 		}
 		{
-			title: "Story Telling"
+			title: "讲故事"
 			x: -2.5d
 			y: 3.0d
 			shape: "circle"
-			subtitle: "You're going to want some early game food"
+			subtitle: "你会需要一些早期的游戏食物。"
 			dependencies: ["0EFE8AF0D5AC7B2B"]
 			id: "7E56B86A39BC31BA"
 			tasks: [{
@@ -1553,18 +1553,18 @@
 			}]
 		}
 		{
-			title: "Moar Plates!"
+			title: "更多金属板！"
 			x: 4.0d
 			y: 19.5d
 			shape: "circle"
-			subtitle: "Doesn't require a hammer"
-			description: ["Better way of making plates."]
+			subtitle: "不需要锤子"
+			description: ["更好的压板方式"]
 			dependencies: ["277B3BE2AFC54306"]
 			id: "31B2A4702602571B"
 			tasks: [{
 				id: "078879A07F3E5624"
 				type: "checkmark"
-				title: "Plates"
+				title: "板"
 			}]
 		}
 		{
@@ -1575,7 +1575,7 @@
 			tasks: [{
 				id: "743C565DC2BFD531"
 				type: "custom"
-				title: "Becoming an Itamae (Sushi Go Crafting Manual)"
+				title: "成为寿司大师（巧制寿司模组手册）"
 				icon: {
 					id: "patchouli:guide_book"
 					Count: 1b
@@ -1599,10 +1599,10 @@
 			]
 		}
 		{
-			title: "Primitive Cooking"
+			title: "原始烹饪"
 			x: -4.0d
 			y: 3.0d
-			description: ["All of the accepted items can be cooked on the campfire"]
+			description: ["所有任务需要的物品都可以在营火上烹饪。"]
 			dependencies: ["7E56B86A39BC31BA"]
 			id: "06118B0A512E1C38"
 			tasks: [{
@@ -1682,7 +1682,7 @@
 			}]
 		}
 		{
-			title: "Chop, chop, chop"
+			title: "切切切"
 			x: -7.0d
 			y: 3.0d
 			dependencies: ["184E876126329F24"]
@@ -1700,7 +1700,7 @@
 			}]
 		}
 		{
-			title: "Steaming business"
+			title: "蒸煮生意"
 			x: -7.0d
 			y: 4.5d
 			dependencies: ["34B14AECCC7CB78E"]
@@ -1722,14 +1722,14 @@
 			x: 0.5306122448979522d
 			y: 0.04693877551019626d
 			shape: "circle"
-			subtitle: "Any version of the mattock will complete this quest not just the wooden version."
+			subtitle: "包括木制的所有鹤嘴锄都能完成这项任务。"
 			dependencies: ["5874905D11B2CFD1"]
 			size: 1.2d
 			id: "138E4B8D7E4C3A1D"
 			tasks: [{
 				id: "68E7E11655ADF775"
 				type: "item"
-				title: "Mattock"
+				title: "鹤嘴锄"
 				item: {
 					id: "tconstruct:mattock"
 					Count: 1b
@@ -1785,20 +1785,20 @@
 			}]
 		}
 		{
-			title: "The Natural Beginnings"
+			title: "自然的起源"
 			x: -1.0d
 			y: -4.5d
-			subtitle: "Please refer to PIP for all information"
+			subtitle: "参考Proletaria信息手册来获取所有信息。"
 			description: [
-				"Welcome to &5Proletaria: Expert."
+				"欢迎来到&5Proletaria: Expert无产阶级：专家模式."
 				""
-				"Use the Patchouli provided &6Proletaria Information Pamphlet (PIP)&r for additional information about the pack and the required mechanics/setups that will help you through this pack."
+				"使用整合包提供的&6Proletaria信息手册（PIP）&r 来获取额外的整合包信息以及需要的多方块结构搭建教程，这会自始至终帮助你游玩整合包。"
 			]
 			id: "6E99F4CACF47CDE2"
 			tasks: [{
 				id: "69582C3C7F30E4D5"
 				type: "checkmark"
-				title: "Welcome"
+				title: "欢迎游玩"
 				icon: {
 					id: "sushigocrafting:cheese"
 					Count: 1b
@@ -1811,7 +1811,7 @@
 				{
 					id: "61A69C293C6AB660"
 					type: "command"
-					title: "Stage 1"
+					title: "第一阶段"
 					icon: "kubejs:pro_coin"
 					auto: "invisible"
 					command: "/gamestage add @p stage_1"
@@ -1831,7 +1831,7 @@
 				{
 					id: "71A8B241BF970B94"
 					type: "command"
-					title: "Stage 1 popup"
+					title: "第一阶段弹出窗口"
 					team_reward: false
 					auto: "invisible"
 					command: "/title @p title {\"text\":\"The Natural Beggings\",\"color\":\"green\"}"
@@ -1845,18 +1845,18 @@
 			]
 		}
 		{
-			title: "Mystical Flower Farm"
+			title: "神秘花农场"
 			x: -4.5d
 			y: 9.5d
 			shape: "circle"
-			description: ["You can duplicate botania mystical flowers by turning them into petals then planting them petals on grass, next you bonemeal the flower to turn it into a 2 block tall flower, now break the flower with your kama, if you dont it will just void the flower."]
+			description: ["你可以将神秘花分解为花瓣并种在草地上，接着催熟它，它就会变成2格的高神秘花，现在，用你的短刃镰破坏它。如果你不用短刃镰（剪刀），就不会掉落任何物品。"]
 			dependencies: ["25908AEC8189A6F3"]
 			optional: true
 			id: "37C601F07C0C3A05"
 			tasks: [{
 				id: "0FF35D09B559EAA9"
 				type: "item"
-				title: "Any #botania:double_mystical_flowers"
+				title: "任意#botania:double_mystical_flowers"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -1882,7 +1882,7 @@
 			tasks: [{
 				id: "08268CE6539876CD"
 				type: "checkmark"
-				title: "Lost your PIP?"
+				title: "把你的Proletaria信息手册弄丢了？"
 			}]
 			rewards: [{
 				id: "2221D3E12338D40A"
@@ -1897,11 +1897,11 @@
 			}]
 		}
 		{
-			title: "Halloween Spooks"
+			title: "万圣节幽灵"
 			x: 1.7999999999999998d
 			y: 1.1999999999999997d
 			shape: "circle"
-			description: ["Use the Kama to carve a pumpkin so that you can craft a furnace if you need it"]
+			description: ["使用短刃镰来雕刻南瓜，如果需要的话你可以把它戴在脸上。"]
 			dependencies: ["6C9D50B10AA8C5B3"]
 			optional: true
 			id: "4ED9296EF8BE17DC"
@@ -1918,11 +1918,11 @@
 			}]
 		}
 		{
-			title: "Burning Heat"
+			title: "燃烧的热量"
 			x: -1.0d
 			y: 6.0d
 			shape: "diamond"
-			subtitle: "The Kama can carve a pumpkin like shears"
+			subtitle: "短刃镰可以像剪刀一样雕刻南瓜（作者是不是写错地方了）"
 			dependencies: ["37238B4A644CE574"]
 			size: 1.5d
 			id: "6E1D82728C0C382F"
