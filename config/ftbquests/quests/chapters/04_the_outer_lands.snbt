@@ -87,7 +87,7 @@
 			]
 		}
 		{
-			title: "粉碎的潜力"
+			title: "粉碎可能性"
 			x: 4.5d
 			y: 3.5d
 			dependencies: ["21CBDF24FD5C93BF"]
