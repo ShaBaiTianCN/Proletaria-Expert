@@ -131,7 +131,7 @@
 			x: 13.5d
 			y: -9.5d
 			subtitle: "使用它们将魔力从一个魔力池发射到另一个魔力池，或者为祭坛提供魔力。"
-			description: ["你知道吗，你可以把羊毛套在这些魔力发射器上面，可以让他们更爵士（安静）一点。"]
+			description: ["你知道吗？把羊毛套在这些魔力发射器上面，可以让他们更爵士（安静）一点。"]
 			dependencies: ["5C3FD999EBEF7AC1"]
 			id: "3DBFAF9D41A22576"
 			tasks: [{
@@ -1479,7 +1479,7 @@
 		{
 			x: 27.0d
 			y: -9.5d
-			subtitle: "远方之地旅行"
+			subtitle: "漫步到远方"
 			description: [
 				"旅居者腰带的升级版。"
 				""
@@ -1533,7 +1533,7 @@
 		{
 			x: 28.0d
 			y: -10.0d
-			subtitle: "后退……"
+			subtitle: "抗住……"
 			description: [
 				"旅居者腰带的替代品"
 				""
@@ -3804,7 +3804,7 @@
 			disable_toast: true
 			x: 18.5d
 			y: 0.5d
-			subtitle: "太猛男了"
+			subtitle: "精致一些"
 			description: [
 				"还不错的盔甲，可以提高从精灵之戒中召唤小精灵的概率。"
 				""
