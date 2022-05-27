@@ -3,7 +3,7 @@
 	group: "5BC5B0C01671D322"
 	order_index: 3
 	filename: "04_the_outer_lands"
-	title: "04 - The Outer Lands"
+	title: "04 - 外域"
 	icon: "industrialforegoing:ore_laser_base"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -60,7 +60,7 @@
 			}]
 		}
 		{
-			title: "Mechanical Crafting"
+			title: "动力合成"
 			x: 2.5d
 			y: 3.5d
 			dependencies: ["46EEBA115304696C"]
@@ -87,7 +87,7 @@
 			]
 		}
 		{
-			title: "Crushing Potential"
+			title: "粉碎的潜力"
 			x: 4.5d
 			y: 3.5d
 			dependencies: ["21CBDF24FD5C93BF"]
@@ -123,15 +123,15 @@
 			}]
 		}
 		{
-			title: "Blast Furnace"
+			title: "高炉"
 			icon: "immersiveengineering:blast_furnace"
 			x: 6.5d
 			y: 5.5d
-			subtitle: "Read the Engineer's Manual for info on how to construct this structure."
+			subtitle: "读工程师手册来获取建造这个结构的信息。"
 			description: [
-				"Constructed similar to the Coke Oven, except using Blast Bricks."
+				"与焦炉的结构相似，只不过用的是高炉砖。"
 				""
-				"Insert Thallasium Ingots to turn them into Steel"
+				"填入铊锭来转变成钢锭"
 			]
 			dependencies: ["0119FB6A7E6DBB84"]
 			id: "6740AB00171E9E7B"
@@ -145,7 +145,7 @@
 				{
 					id: "2BD702B9FA15269D"
 					type: "observation"
-					title: "Blast Furnace"
+					title: "高炉"
 					icon: "immersiveengineering:blast_furnace"
 					timer: 0L
 					observe_type: 0
@@ -355,7 +355,7 @@
 		{
 			x: 6.5d
 			y: 18.5d
-			subtitle: "Look at the Astral Tome to know how to build the structure around the altar"
+			subtitle: "查阅星芒宝典以了解如何建造祭坛周围的结构"
 			dependencies: [
 				"3A96FEA14AACDC84"
 				"199FF0FAADDA3599"
@@ -431,14 +431,14 @@
 			icon: "immersiveengineering:metal_press"
 			x: 4.0d
 			y: 10.5d
-			subtitle: "Consult the Engineer's Manual on how to build the machine"
+			subtitle: "查阅工程师手册关于如何搭建这个机器"
 			dependencies: ["4BF671E7E122467E"]
 			id: "148D8808AC69150C"
 			tasks: [
 				{
 					id: "42222B9392B02CBD"
 					type: "observation"
-					title: "Metal Press"
+					title: "金属冲压机"
 					icon: "immersiveengineering:metal_press"
 					timer: 0L
 					observe_type: 0
@@ -483,14 +483,14 @@
 			icon: "immersiveengineering:crusher"
 			x: 3.0d
 			y: 9.5d
-			subtitle: "Consult the Engineer's Manual on how to build the machine"
+			subtitle: "查阅工程师手册以了解如何搭建这个机器"
 			dependencies: ["4BF671E7E122467E"]
 			id: "1140E1D36DAEC60F"
 			tasks: [
 				{
 					id: "485CB8118A680EC1"
 					type: "observation"
-					title: "Crusher"
+					title: "粉碎机"
 					icon: "immersiveengineering:crusher"
 					timer: 0L
 					observe_type: 0
@@ -534,7 +534,7 @@
 			}]
 		}
 		{
-			title: "Coal Coke Dust"
+			title: "焦煤粉"
 			x: 2.0d
 			y: 9.5d
 			dependencies: ["1140E1D36DAEC60F"]
@@ -542,7 +542,7 @@
 			tasks: [{
 				id: "6F91F09398B4FFA0"
 				type: "item"
-				title: "Coal Coke Dust"
+				title: "焦煤粉"
 				item: "emendatusenigmatica:coke_dust"
 			}]
 			rewards: [{
@@ -556,14 +556,14 @@
 			icon: "immersiveengineering:squeezer"
 			x: 3.0d
 			y: 10.5d
-			subtitle: "Consult the Engineer's Manual on how to build the machine"
+			subtitle: "查阅工程师手册以了解如何搭建这个机器"
 			dependencies: ["4BF671E7E122467E"]
 			id: "55323E399918FB32"
 			tasks: [
 				{
 					id: "27EFEEFCEA3DB8AF"
 					type: "observation"
-					title: "Industrial Squeezer"
+					title: "工业挤压机"
 					icon: "immersiveengineering:squeezer"
 					timer: 0L
 					observe_type: 0
@@ -640,7 +640,7 @@
 		{
 			x: 5.0d
 			y: 17.0d
-			subtitle: "Consult the Engineer's Manual on how to build the machine"
+			subtitle: "查阅工程师手册以了解如何搭建这个机器"
 			dependencies: [
 				"4BF671E7E122467E"
 				"62A09800CDC929A3"
@@ -650,7 +650,7 @@
 				{
 					id: "72EA14F99042B9CF"
 					type: "observation"
-					title: "Arc Furnace"
+					title: "电弧炉"
 					icon: "immersiveengineering:arc_furnace"
 					timer: 0L
 					observe_type: 0
@@ -1265,7 +1265,7 @@
 		{
 			x: 5.0d
 			y: 21.5d
-			subtitle: "Livingrock has been replaced with Chiselled or Engraved Marble"
+			subtitle: "活石已经被雕纹大理石或凹面大理石代替"
 			dependencies: [
 				"601DC060A317BA31"
 				"13AD695704154ECE"
@@ -1286,7 +1286,7 @@
 				{
 					id: "2DBDC9309FE05503"
 					type: "item"
-					title: "Engraved or Chiselled Marble"
+					title: "雕纹大理石或凹面大理石"
 					item: {
 						id: "itemfilters:or"
 						Count: 1b
@@ -1422,7 +1422,7 @@
 			}]
 		}
 		{
-			title: "Adding Heat"
+			title: "加热"
 			x: 8.0d
 			y: 3.5d
 			shape: "circle"
@@ -1443,7 +1443,7 @@
 			}]
 		}
 		{
-			title: "Wireless Power Transfer"
+			title: "无限能量传输"
 			x: 9.5d
 			y: 3.5d
 			shape: "circle"
@@ -1478,20 +1478,20 @@
 			x: 7.714285714285715d
 			y: 9.488095238095234d
 			shape: "circle"
-			subtitle: "Unlocks all Astral Sorcery research right away"
-			description: ["Astral Srocery research can get finnicky on servers and such if you're playing with others. Use this to unlock the entire research from the get go"]
+			subtitle: "立即解锁所有星辉魔法的研究"
+			description: ["如果你和其他人一起玩的话，星辉魔法的研究会在服务器上变得有些难办。用这个可以从一开始就解锁全部研究内容。"]
 			dependencies: ["2D72D740D0AD838A"]
 			optional: true
 			id: "3355FE920F531ACD"
 			tasks: [{
 				id: "70303435B23F42BF"
 				type: "checkmark"
-				title: "Unlock Astral Research"
+				title: "解锁星辉研究"
 			}]
 			rewards: [{
 				id: "60785B1D57C60257"
 				type: "command"
-				title: "Your knowledge grows"
+				title: "你的知识增加了"
 				icon: {
 					id: "astralsorcery:constellation_paper"
 					Count: 1b
