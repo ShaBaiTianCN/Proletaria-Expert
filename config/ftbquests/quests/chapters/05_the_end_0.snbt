@@ -54,7 +54,7 @@
 				{
 					id: "668D4323BEA2CE19"
 					type: "item"
-					title: "Any #forge:storage_blocks/aluminum"
+					title: "任意#forge:storage_blocks/aluminum"
 					item: {
 						id: "itemfilters:tag"
 						Count: 1b
