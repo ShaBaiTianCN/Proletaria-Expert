@@ -3,12 +3,12 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 9
 	filename: "small_ships"
-	title: "Small Ships"
+	title: "small_ships"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Rowing Boat"
+			title: "划艇"
 			x: -0.5d
 			y: 0.0d
 			dependencies: ["075C0290C0F62A3F"]
@@ -57,7 +57,7 @@
 			}]
 		}
 		{
-			title: "Cog"
+			title: "柯克船"
 			x: -0.5d
 			y: -1.5d
 			dependencies: ["61289A20B17B95A4"]
@@ -106,7 +106,7 @@
 			}]
 		}
 		{
-			title: "Galley"
+			title: "加莱帆船"
 			x: 1.0d
 			y: -1.5d
 			dependencies: ["61289A20B17B95A4"]
@@ -155,7 +155,7 @@
 			}]
 		}
 		{
-			title: "War Galley"
+			title: "双桅加莱帆船"
 			x: 1.0d
 			y: 0.0d
 			dependencies: ["61289A20B17B95A4"]
@@ -204,7 +204,7 @@
 			}]
 		}
 		{
-			title: "Drakkar"
+			title: "撞角战舰"
 			x: -2.0d
 			y: 0.0d
 			dependencies: ["61289A20B17B95A4"]
@@ -253,7 +253,7 @@
 			}]
 		}
 		{
-			title: "Brigg"
+			title: "双桅横帆小帆船"
 			x: -0.5d
 			y: 1.5d
 			dependencies: ["61289A20B17B95A4"]
@@ -302,7 +302,7 @@
 			}]
 		}
 		{
-			title: "Dhow"
+			title: "双桅三角帆船"
 			x: -2.0d
 			y: 1.5d
 			dependencies: ["61289A20B17B95A4"]
