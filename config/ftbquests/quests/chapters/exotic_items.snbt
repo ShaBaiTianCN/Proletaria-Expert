@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 0
 	filename: "exotic_items"
-	title: "Market - Exotic Items"
+	title: "珍贵的市场物品"
 	always_invisible: true
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -686,7 +686,7 @@
 		{
 			x: 2.5d
 			y: 0.5d
-			subtitle: "Can be found in a Nether Fortress"
+			subtitle: "能够下界要塞中找到"
 			dependencies: ["2A9157A43C3FC6D3"]
 			id: "6EDB519B32A4D41F"
 			tasks: [{
@@ -706,7 +706,7 @@
 		{
 			x: 4.5d
 			y: 0.5d
-			subtitle: "Can be found in a Nether Fortress"
+			subtitle: "能够下界要塞中找到"
 			dependencies: ["2A9157A43C3FC6D3"]
 			id: "5EDA17CFD3BDCD96"
 			tasks: [{
