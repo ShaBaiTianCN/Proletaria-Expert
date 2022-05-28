@@ -654,7 +654,7 @@
 			x: -3.0d
 			y: 7.5d
 			description: [
-				"生产魔力会变得至关重要。你会需要使用原始方法来自动化火红莲或之后更高级的产能花。"
+				"生产魔力会变得至关重要，你需要使用更原始的方法来使火红莲或更高级的产能花自动生产魔力。"
 				"{image:proletaria:textures/quests/endoflame_1.png width:186 height:131 align:1}"
 			]
 			dependencies: ["58D898509FBB2E02"]
