@@ -1446,7 +1446,7 @@
 			}]
 		}
 		{
-			title: "Delicate toughness@海福：不知道怎么翻，感觉直译很怪"
+			title: "刚柔并济"
 			x: -3.0d
 			y: 22.0d
 			dependencies: [
@@ -1718,7 +1718,7 @@
 			}]
 		}
 		{
-			title: "Wood Chucker@海福：chucker机翻是投手，感觉和鹤嘴锄关系不大，不知道怎么翻译"
+			title: "樵夫"
 			x: 0.5306122448979522d
 			y: 0.04693877551019626d
 			shape: "circle"
