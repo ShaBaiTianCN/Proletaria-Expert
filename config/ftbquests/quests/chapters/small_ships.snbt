@@ -3,7 +3,7 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 9
 	filename: "small_ships"
-	title: "small_ships"
+	title: "Small Ships"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
