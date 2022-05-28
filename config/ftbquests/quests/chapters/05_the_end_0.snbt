@@ -13,7 +13,7 @@
 			x: -3.0d
 			y: -3.5d
 			shape: "diamond"
-			subtitle: "所有活塞必须处于伸长状态以完成该多方块结构。"
+			subtitle: "所有活塞必须处于激活状态以完成该多方块结构。"
 			dependencies: ["10D39BAC3438F5E6"]
 			size: 1.5d
 			id: "1D02CFF609D18199"
