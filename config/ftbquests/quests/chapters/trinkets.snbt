@@ -3,12 +3,12 @@
 	group: "1B43E39131B2A05D"
 	order_index: 4
 	filename: "trinkets"
-	title: "Shop - Trinkets"
+	title: "饰品商店"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Piggy Trinket"
+			title: "饰品：小猪头"
 			icon: "losttrinkets:piggy"
 			tags: ["repeat"]
 			x: -1.0d
@@ -37,7 +37,7 @@
 			}]
 		}
 		{
-			title: "Creepo Trinket"
+			title: "饰品：吉吉怪"
 			icon: "losttrinkets:creepo"
 			tags: ["repeat"]
 			x: 3.5d
@@ -63,7 +63,7 @@
 			}]
 		}
 		{
-			title: "Horseshoe Trinket"
+			title: "饰品：马蹄铁"
 			icon: "losttrinkets:horseshoe"
 			tags: ["repeat"]
 			x: 0.0d
@@ -92,7 +92,7 @@
 			}]
 		}
 		{
-			title: "Butcher's Cleaver Trinket"
+			title: "饰品：屠宰镰"
 			icon: "losttrinkets:butchers_cleaver"
 			tags: ["repeat"]
 			x: 1.0d
@@ -121,7 +121,7 @@
 			}]
 		}
 		{
-			title: "Slingshot Trinket"
+			title: "饰品：绷弓子"
 			icon: "losttrinkets:slingshot"
 			tags: ["repeat"]
 			x: -1.0d
@@ -150,7 +150,7 @@
 			}]
 		}
 		{
-			title: "Magneto Trinket"
+			title: "饰品：磁石圈"
 			icon: "losttrinkets:magneto"
 			tags: ["repeat"]
 			x: 0.0d
@@ -179,7 +179,7 @@
 			}]
 		}
 		{
-			title: "Rock Candy Trinket"
+			title: "饰品：水晶糖"
 			icon: "losttrinkets:rock_candy"
 			tags: ["repeat"]
 			x: 4.5d
@@ -205,7 +205,7 @@
 			}]
 		}
 		{
-			title: "Lunch Bag Trinket"
+			title: "饰品：午餐袋"
 			icon: "losttrinkets:lunch_bag"
 			tags: ["repeat"]
 			x: 5.5d
@@ -231,7 +231,7 @@
 			}]
 		}
 		{
-			title: "Luck Coin Trinket"
+			title: "饰品：幸运币"
 			icon: "losttrinkets:luck_coin"
 			tags: ["repeat"]
 			x: 3.0d
@@ -257,7 +257,7 @@
 			}]
 		}
 		{
-			title: "Ice Shard Trinket"
+			title: "饰品：碎冰片"
 			icon: "losttrinkets:ice_shard"
 			tags: ["repeat"]
 			x: 3.5d
@@ -283,7 +283,7 @@
 			}]
 		}
 		{
-			title: "Empty Amulet Trinket"
+			title: "饰品：空护符"
 			icon: "losttrinkets:empty_amulet"
 			tags: ["repeat"]
 			x: 1.0d
@@ -309,7 +309,7 @@
 			}]
 		}
 		{
-			title: "Tha Spider Trinket"
+			title: "饰品：小蜘蛛"
 			icon: "losttrinkets:tha_spider"
 			tags: ["repeat"]
 			x: 2.0d
@@ -335,7 +335,7 @@
 			}]
 		}
 		{
-			title: "Glass Shard Trinket"
+			title: "饰品：玻璃片"
 			icon: "losttrinkets:glass_shard"
 			tags: ["repeat"]
 			x: 4.5d
@@ -361,7 +361,7 @@
 			}]
 		}
 		{
-			title: "Blaze Heart Trinket"
+			title: "饰品：烈焰心"
 			icon: "losttrinkets:blaze_heart"
 			tags: ["repeat"]
 			x: 3.5d
@@ -387,7 +387,7 @@
 			}]
 		}
 		{
-			title: "Tha Ghost Trinket"
+			title: "饰品：小鬼头"
 			icon: "losttrinkets:tha_ghost"
 			tags: ["repeat"]
 			x: 2.0d
@@ -413,7 +413,7 @@
 			}]
 		}
 		{
-			title: "Treble Hooks Trinket"
+			title: "饰品：三重钩"
 			icon: "losttrinkets:treble_hooks"
 			tags: ["repeat"]
 			x: -5.0d
@@ -439,7 +439,7 @@
 			}]
 		}
 		{
-			title: "Tha Wizard Trinket"
+			title: "饰品：小巫师"
 			icon: "losttrinkets:tha_wizard"
 			tags: ["repeat"]
 			x: 3.0d
@@ -465,7 +465,7 @@
 			}]
 		}
 		{
-			title: "Tha Bat Trinket"
+			title: "饰品：小蝙蝠"
 			icon: "losttrinkets:tha_bat"
 			tags: ["repeat"]
 			x: 4.0d
@@ -491,7 +491,7 @@
 			}]
 		}
 		{
-			title: "Blank Eyes Trinket"
+			title: "饰品：无瞳眼"
 			icon: "losttrinkets:blank_eyes"
 			tags: ["repeat"]
 			x: 5.0d
@@ -517,7 +517,7 @@
 			}]
 		}
 		{
-			title: "Tha Cloud Trinket"
+			title: "饰品：云朵儿"
 			icon: "losttrinkets:tha_cloud"
 			tags: ["repeat"]
 			x: 4.5d
@@ -543,7 +543,7 @@
 			}]
 		}
 		{
-			title: "Miner's Pick Trinket"
+			title: "饰品：矿工镐"
 			icon: "losttrinkets:miners_pick"
 			tags: ["repeat"]
 			x: 3.5d
@@ -569,7 +569,7 @@
 			}]
 		}
 		{
-			title: "Big Foot Trinket"
+			title: "饰品：大脚怪"
 			icon: "losttrinkets:big_foot"
 			tags: ["repeat"]
 			x: 1.0d
@@ -595,7 +595,7 @@
 			}]
 		}
 		{
-			title: "Book O'Enchanting Trinket"
+			title: "饰品：咒术书"
 			icon: "losttrinkets:book_o_enchanting"
 			tags: ["repeat"]
 			x: -5.0d
@@ -621,7 +621,7 @@
 			}]
 		}
 		{
-			title: "Warm Void Trinket"
+			title: "饰品：友善虚空"
 			icon: "losttrinkets:warm_void"
 			tags: ["repeat"]
 			x: -4.0d
@@ -647,7 +647,7 @@
 			}]
 		}
 		{
-			title: "Golden Melon Trinket"
+			title: "饰品：黄金瓜"
 			icon: "losttrinkets:golden_melon"
 			tags: ["repeat"]
 			x: -3.0d
@@ -673,7 +673,7 @@
 			}]
 		}
 		{
-			title: "Turtle Shell Trinket"
+			title: "饰品：海龟鳞"
 			icon: "losttrinkets:turtle_shell"
 			tags: ["repeat"]
 			x: 5.5d
@@ -699,7 +699,7 @@
 			}]
 		}
 		{
-			title: "Wither Nail Trinket"
+			title: "饰品：凋灵爪"
 			icon: "losttrinkets:wither_nail"
 			tags: ["repeat"]
 			x: -2.0d
@@ -725,7 +725,7 @@
 			}]
 		}
 		{
-			title: "Serpent Tooth Trinket"
+			title: "饰品：毒蛇齿"
 			icon: "losttrinkets:serpent_tooth"
 			tags: ["repeat"]
 			x: -4.0d
@@ -751,7 +751,7 @@
 			}]
 		}
 		{
-			title: "Mad Piggy Trinket"
+			title: "饰品：疯猪头"
 			icon: "losttrinkets:mad_piggy"
 			tags: ["repeat"]
 			x: 4.0d
@@ -777,7 +777,7 @@
 			}]
 		}
 		{
-			title: "Mind's Eye Trinket"
+			title: "饰品：洞悉之眼"
 			icon: "losttrinkets:minds_eye"
 			tags: ["repeat"]
 			x: 4.5d
@@ -803,7 +803,7 @@
 			}]
 		}
 		{
-			title: "Golden Swatter Trinket"
+			title: "饰品：金拍子"
 			icon: "losttrinkets:golden_swatter"
 			tags: ["repeat"]
 			x: 5.0d
@@ -829,7 +829,7 @@
 			}]
 		}
 		{
-			title: "Sticky Mind Trinket"
+			title: "饰品：遏影意志""
 			icon: "losttrinkets:sticky_mind"
 			tags: ["repeat"]
 			x: 1.0d
@@ -855,7 +855,7 @@
 			}]
 		}
 		{
-			title: "Fire Mind Trinket"
+			title: "饰品：燃焱意志"
 			icon: "losttrinkets:fire_mind"
 			tags: ["repeat"]
 			x: -1.0d
@@ -881,7 +881,7 @@
 			}]
 		}
 		{
-			title: "Tha Golem Trinket"
+			title: "饰品：小傀儡"
 			icon: "losttrinkets:tha_golem"
 			tags: ["repeat"]
 			x: 2.0d
@@ -907,7 +907,7 @@
 			}]
 		}
 		{
-			title: "Dragon Breath Trinket"
+			title: "饰品：龙之息"
 			icon: "losttrinkets:dragon_breath"
 			tags: ["repeat"]
 			x: -1.0d
@@ -933,7 +933,7 @@
 			}]
 		}
 		{
-			title: "Karma Trinket"
+			title: "饰品：羯摩符"
 			icon: "losttrinkets:karma"
 			tags: ["repeat"]
 			x: -5.0d
@@ -959,7 +959,7 @@
 			}]
 		}
 		{
-			title: "Dark Dagger Trinket"
+			title: "饰品：暗影匕"
 			icon: "losttrinkets:dark_dagger"
 			tags: ["repeat"]
 			x: -3.0d
@@ -985,7 +985,7 @@
 			}]
 		}
 		{
-			title: "Starfish Trinket"
+			title: "饰品：小海星t"
 			icon: "losttrinkets:starfish"
 			tags: ["repeat"]
 			x: -2.0d
@@ -1011,7 +1011,7 @@
 			}]
 		}
 		{
-			title: "Drop Spindle Trinket"
+			title: "饰品：锤纺线"
 			icon: "losttrinkets:drop_spindle"
 			tags: ["repeat"]
 			x: -5.5d
@@ -1037,7 +1037,7 @@
 			}]
 		}
 		{
-			title: "Ember Trinket"
+			title: "饰品：余烬石"
 			icon: "losttrinkets:ember"
 			tags: ["repeat"]
 			x: -2.0d
@@ -1063,7 +1063,7 @@
 			}]
 		}
 		{
-			title: "Tea Leaf Trinket"
+			title: "饰品：茶树叶"
 			icon: "losttrinkets:tea_leaf"
 			tags: ["repeat"]
 			x: -3.5d
@@ -1089,7 +1089,7 @@
 			}]
 		}
 		{
-			title: "Coffee Bean Trinket"
+			title: "饰品：咖啡豆"
 			icon: "losttrinkets:coffee_bean"
 			tags: ["repeat"]
 			x: -5.5d
@@ -1115,7 +1115,7 @@
 			}]
 		}
 		{
-			title: "Oxalis Trinket"
+			title: "饰品：四叶草"
 			icon: "losttrinkets:oxalis"
 			tags: ["repeat"]
 			x: -5.5d
@@ -1141,7 +1141,7 @@
 			}]
 		}
 		{
-			title: "Golden Skull Trinket"
+			title: "饰品：金头骨"
 			icon: "losttrinkets:golden_skull"
 			tags: ["repeat"]
 			x: -4.5d
@@ -1167,7 +1167,7 @@
 			}]
 		}
 		{
-			title: "Dark Egg Trinket"
+			title: "饰品：暗黑"
 			icon: "losttrinkets:dark_egg"
 			tags: ["repeat"]
 			x: -3.5d
@@ -1193,7 +1193,7 @@
 			}]
 		}
 		{
-			title: "Pillow Of Secrets Trinket"
+			title: "饰品：神秘枕"
 			icon: "losttrinkets:pillow_of_secrets"
 			tags: ["repeat"]
 			x: -4.0d
@@ -1219,7 +1219,7 @@
 			}]
 		}
 		{
-			title: "Tha Spirit Trinket"
+			title: "饰品：漂游魂"
 			icon: "losttrinkets:tha_spirit"
 			tags: ["repeat"]
 			x: -3.0d
@@ -1245,7 +1245,7 @@
 			}]
 		}
 		{
-			title: "Mirror Shard Trinket"
+			title: "饰品：碎镜片"
 			icon: "losttrinkets:mirror_shard"
 			tags: ["repeat"]
 			x: -3.5d
@@ -1270,7 +1270,7 @@
 			}]
 		}
 		{
-			title: "Mossy Ring Trinket"
+			title: "饰品：覆苔指环"
 			icon: "losttrinkets:mossy_ring"
 			tags: ["repeat"]
 			x: -5.5d
@@ -1296,7 +1296,7 @@
 			}]
 		}
 		{
-			title: "Mossy Belt Trinket"
+			title: "饰品：覆苔腰带"
 			icon: "losttrinkets:mossy_belt"
 			tags: ["repeat"]
 			x: -4.5d
@@ -1322,7 +1322,7 @@
 			}]
 		}
 		{
-			title: "Treasure Ring Trinket"
+			title: "饰品：宝藏指环"
 			icon: "losttrinkets:treasure_ring"
 			tags: ["repeat"]
 			x: -4.5d
@@ -1348,7 +1348,7 @@
 			}]
 		}
 		{
-			title: "Octopick Trinket"
+			title: "饰品：八重镐"
 			icon: "losttrinkets:octopick"
 			tags: ["repeat"]
 			x: 3.5d
@@ -1374,7 +1374,7 @@
 			}]
 		}
 		{
-			title: "Silver Nail Trinket"
+			title: "饰品：白银爪"
 			icon: "losttrinkets:silver_nail"
 			tags: ["repeat"]
 			x: -3.5d
@@ -1400,7 +1400,7 @@
 			}]
 		}
 		{
-			title: "Glory Shards Trinket"
+			title: "饰品：荣耀碎片"
 			icon: "losttrinkets:glory_shards"
 			tags: ["repeat"]
 			x: -6.5d
@@ -1426,7 +1426,7 @@
 			}]
 		}
 		{
-			title: "Ash Gloves Trinket"
+			title: "饰品：灰烬护手"
 			icon: "losttrinkets:ash_gloves"
 			tags: ["repeat"]
 			x: 3.0d
@@ -1452,7 +1452,7 @@
 			}]
 		}
 		{
-			title: "Ruby Heart Trinket"
+			title: "饰品：红宝心"
 			icon: "losttrinkets:ruby_heart"
 			tags: ["repeat"]
 			x: 4.0d
@@ -1478,7 +1478,7 @@
 			}]
 		}
 		{
-			title: "Golden Horseshoe Trinket"
+			title: "饰品：黄金蹄铁"
 			icon: "losttrinkets:golden_horseshoe"
 			tags: ["repeat"]
 			x: 5.0d
@@ -1504,7 +1504,7 @@
 			}]
 		}
 		{
-			title: "Golden Tooth Trinket"
+			title: "饰品：黄金齿"
 			icon: "losttrinkets:golden_tooth"
 			tags: ["repeat"]
 			x: -1.0d
@@ -1530,7 +1530,7 @@
 			}]
 		}
 		{
-			title: "Broken Heart 1 Trinket"
+			title: "饰品：心之碎片（第一片）"
 			icon: "losttrinkets:broken_heart_1"
 			tags: ["repeat"]
 			x: 1.0d
@@ -1559,7 +1559,7 @@
 			}]
 		}
 		{
-			title: "Broken Heart 2 Trinket"
+			title: "饰品：心之碎片（第二片）"
 			icon: "losttrinkets:broken_heart_2"
 			tags: ["repeat"]
 			x: 5.5d
@@ -1585,7 +1585,7 @@
 			}]
 		}
 		{
-			title: "Broken Heart 3 Trinket"
+			title: "饰品：心之碎片（第三片）"
 			icon: "losttrinkets:broken_heart_3"
 			tags: ["repeat"]
 			x: 5.5d
@@ -1611,7 +1611,7 @@
 			}]
 		}
 		{
-			title: "Broken Heart 4 Trinket"
+			title: "饰品：心之碎片（第四片）"
 			icon: "losttrinkets:broken_heart_4"
 			tags: ["repeat"]
 			x: 4.5d
@@ -1637,7 +1637,7 @@
 			}]
 		}
 		{
-			title: "Broken Heart 5 Trinket"
+			title: "饰品：心之碎片（第五片）"
 			icon: "losttrinkets:broken_heart_5"
 			tags: ["repeat"]
 			x: -2.5d
@@ -1663,7 +1663,7 @@
 			}]
 		}
 		{
-			title: "Octopus Leg Trinket"
+			title: "饰品：墨鱼须"
 			icon: "losttrinkets:octopus_leg"
 			tags: ["repeat"]
 			x: -4.5d
@@ -1689,7 +1689,7 @@
 			}]
 		}
 		{
-			title: "Magical Herbs Trinket"
+			title: "饰品：魔力草"
 			icon: "losttrinkets:magical_herbs"
 			tags: ["repeat"]
 			x: -3.5d
@@ -1715,7 +1715,7 @@
 			}]
 		}
 		{
-			title: "Mad Aura Trinket"
+			title: "饰品：炽光环"
 			icon: "losttrinkets:mad_aura"
 			tags: ["repeat"]
 			x: 1.5d
@@ -1741,7 +1741,7 @@
 			}]
 		}
 		{
-			title: "Broken Totem Trinket"
+			title: "饰品：残损图腾"
 			icon: "losttrinkets:broken_totem"
 			tags: ["repeat"]
 			x: 2.5d
@@ -1774,7 +1774,7 @@
 			tasks: [{
 				id: "74A2DE573930E1F2"
 				type: "gamestage"
-				title: "Stage 1"
+				title: "阶段一"
 				icon: "minecraft:oak_log"
 				stage: "stage_1"
 			}]
@@ -1788,7 +1788,7 @@
 			tasks: [{
 				id: "052642D662F0CCF2"
 				type: "gamestage"
-				title: "Stage 2"
+				title: "阶段二"
 				icon: "botania:orechid"
 				stage: "stage_2"
 			}]
