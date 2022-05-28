@@ -3,7 +3,7 @@
 	group: "5BC5B0C01671D322"
 	order_index: 4
 	filename: "05_the_end_0"
-	title: "05 - The End?"
+	title: "05 - 终点？"
 	icon: "angelring:itemring"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -13,7 +13,7 @@
 			x: -3.0d
 			y: -3.5d
 			shape: "diamond"
-			subtitle: "All pistons must be fully extended inorder for the structure to be complete."
+			subtitle: "所有活塞必须处于伸长状态以完成该多方块结构。"
 			dependencies: ["10D39BAC3438F5E6"]
 			size: 1.5d
 			id: "1D02CFF609D18199"
@@ -164,7 +164,7 @@
 			x: 0.018707482993221447d
 			y: -1.9421768707483267d
 			shape: "diamond"
-			subtitle: "Refer to the BEIB for building hologram."
+			subtitle: "参阅Proletaria信息手册以浏览结构投影。"
 			dependencies: [
 				"639AB9AA5FF81F12"
 				"3E42F1EF6664DBDB"
@@ -479,7 +479,7 @@
 			}]
 		}
 		{
-			title: "Oil Extraction"
+			title: "提取原油"
 			icon: "immersivepetroleum:pumpjack"
 			x: -4.5d
 			y: 2.5d
@@ -557,7 +557,7 @@
 			tasks: [{
 				id: "6914D3F10361D420"
 				type: "observation"
-				title: "Celestial Altar"
+				title: "天辉祭坛"
 				icon: "astralsorcery:altar_constellation"
 				timer: 0L
 				observe_type: 0
@@ -626,7 +626,7 @@
 			}]
 		}
 		{
-			title: "Guardians of the Gaia(xy)"
+			title: "盖亚守护者"
 			x: 3.0d
 			y: 13.25d
 			dependencies: ["674CEB1A5DA386E8"]
@@ -635,7 +635,7 @@
 				{
 					id: "2F9367A866B374C5"
 					type: "kill"
-					title: "Kill your Doppleganger"
+					title: "杀死“另一个你”"
 					entity: "botania:doppleganger"
 					value: 1L
 				}
@@ -997,7 +997,7 @@
 			tasks: [{
 				id: "5B44B424BCECB636"
 				type: "observation"
-				title: "Iridescent Altar"
+				title: "五彩祭坛"
 				icon: "astralsorcery:altar_radiance"
 				timer: 0L
 				observe_type: 0
@@ -1031,8 +1031,8 @@
 			x: 0.0d
 			y: -5.0d
 			description: [
-				"Fulminating Grenade spawns lightning when thrown, use it to charge your certus!"
-				"Fulminating Explosives also work the same way but as a block form."
+				"震天雷击弹会在被扔出后生成雷击。用这个充能你的赛特斯石英水晶！"
+				"震天雷击炸药也具有相似的效果，不过它是以一种方块的形式呈现的。"
 			]
 			dependencies: ["221023D477FDC6AD"]
 			id: "5797B0A3732FFB8F"
@@ -1090,18 +1090,18 @@
 			}]
 		}
 		{
-			title: "What you dreamed of for so long"
+			title: "你期待已久的那个东西"
 			x: 0.0d
 			y: 21.5d
 			shape: "gear"
 			description: [
-				"There you have it! Finally you get your hands on what you wanted the entire time!"
+				"终于！你总算拿到了你一直想要的东西！"
 				""
 				""
-				"This is the end of what is possible."
+				"这就是一切的终点"
 				""
 				""
-				"Or is it?"
+				"……吗？"
 			]
 			dependencies: ["11AB9CB610DABA71"]
 			size: 2.0d
@@ -1146,11 +1146,11 @@
 			}]
 		}
 		{
-			title: "Gaia Simulation Chamber"
+			title: "盖亚模拟室"
 			x: 4.5d
 			y: 18.0d
 			shape: "circle"
-			description: ["Using the Dice of Fate inside of a Ore Laser Drill within the Spatial Dimension built from Applied Energistics Spatial IO Port will allow you to get vast amounts of Gaia Spirit"]
+			description: ["在由应用能源模组的空间IO端口构造的封闭空间中,为镭射钻基座放入命运骰子后，可以采集大量盖亚之魂。"]
 			dependencies: ["47789E5352F01897"]
 			optional: true
 			id: "602AA949BA5D79D3"
@@ -1349,7 +1349,7 @@
 			}]
 		}
 		{
-			title: "You lost something?"
+	  title: "你是不是遗漏了什么？"
 			tags: ["repeat"]
 			x: 2.0d
 			y: 1.5d
@@ -1476,3 +1476,4 @@
 		}
 	]
 }
+
