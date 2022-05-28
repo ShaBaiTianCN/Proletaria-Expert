@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 4
 	filename: "trinkets"
-	title: "饰品商店"
+	title: "商店-饰品"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
