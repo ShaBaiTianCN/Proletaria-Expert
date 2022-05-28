@@ -1796,7 +1796,7 @@
 				{
 					id: "01EB47FA8A5F962F"
 					type: "command"
-					title: "Bracelet +1"
+					title: "手镯 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add bracelet @p"
@@ -1805,7 +1805,7 @@
 				{
 					id: "27129B54335C6A21"
 					type: "command"
-					title: "Charm +1"
+					title: "护符 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add charm @p"
@@ -1814,7 +1814,7 @@
 				{
 					id: "7B1941EA0711F3E3"
 					type: "command"
-					title: "Necklace +1"
+					title: "项链 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add necklace @p"
@@ -1823,7 +1823,7 @@
 				{
 					id: "16DB08E94A99824D"
 					type: "command"
-					title: "Ring +1"
+					title: "戒指 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add ring @p"
@@ -1840,7 +1840,7 @@
 			tasks: [{
 				id: "48C7D39D93FE4BA4"
 				type: "gamestage"
-				title: "Stage 3"
+				title: "阶段三"
 				icon: "atum:scarab"
 				stage: "stage_3"
 			}]
@@ -1848,7 +1848,7 @@
 				{
 					id: "34E06F3B8F478CB6"
 					type: "command"
-					title: "Bracelet +1"
+					title: "手镯 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add bracelet @p"
@@ -1857,7 +1857,7 @@
 				{
 					id: "03B404E2F35D05AC"
 					type: "command"
-					title: "Charm +1"
+					title: "护符 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add charm @p"
@@ -1866,7 +1866,7 @@
 				{
 					id: "54CDA8703737C14F"
 					type: "command"
-					title: "Ring +1"
+					title: "戒指 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add ring @p"
@@ -1883,7 +1883,7 @@
 			tasks: [{
 				id: "5F5496334FFCC388"
 				type: "gamestage"
-				title: "Stage 4"
+				title: "阶段四"
 				icon: "minecraft:dragon_head"
 				stage: "stage_4"
 			}]
@@ -1891,7 +1891,7 @@
 				{
 					id: "734C6CD75A0244B1"
 					type: "command"
-					title: "Ring +1"
+					title: "戒指 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add ring @p"
@@ -1900,7 +1900,7 @@
 				{
 					id: "20D4EB6024E11899"
 					type: "command"
-					title: "Bracelet +1"
+					title: "手镯 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add bracelet @p"
@@ -1909,7 +1909,7 @@
 				{
 					id: "7216E5AC255DDD3E"
 					type: "command"
-					title: "Charm +1"
+					title: "护符 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add charm @p"
@@ -1927,7 +1927,7 @@
 			tasks: [{
 				id: "58C1939187D6F38C"
 				type: "gamestage"
-				title: "Stage 5"
+				title: "阶段五"
 				icon: "angelring:itemring"
 				stage: "stage_5"
 			}]
@@ -1935,7 +1935,7 @@
 				{
 					id: "4E5BAD1E0D16BD42"
 					type: "command"
-					title: "Head +1"
+					title: "头饰 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add head @p"
@@ -1944,7 +1944,7 @@
 				{
 					id: "2623CF4F468D2263"
 					type: "command"
-					title: "Back +1"
+					title: "背饰 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add back @p"
@@ -1953,7 +1953,7 @@
 				{
 					id: "50D7F85C774079B1"
 					type: "command"
-					title: "Body +1"
+					title: "胸饰 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add body @p"
@@ -1962,7 +1962,7 @@
 				{
 					id: "578AEFB626724EE3"
 					type: "command"
-					title: "Hands +2"
+					title: "头饰 +2"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add hands @p 2"
@@ -1971,7 +1971,7 @@
 				{
 					id: "038F6DD8ED512549"
 					type: "command"
-					title: "Belt +1"
+					title: "腰带 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add belt @p"
@@ -1980,7 +1980,7 @@
 				{
 					id: "5F790A3CBF69F415"
 					type: "command"
-					title: "Charm +1"
+					title: "护符 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add charm @p"
@@ -1989,7 +1989,7 @@
 				{
 					id: "4B55F9A0417B0A55"
 					type: "command"
-					title: "Feet +1"
+					title: "脚饰 +1"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add feet @p"
@@ -1998,7 +1998,7 @@
 				{
 					id: "2025A61CC6A43FAB"
 					type: "command"
-					title: "Ring +5"
+					title: "戒指 +5"
 					team_reward: false
 					auto: "invisible"
 					command: "/curios add ring @p 5"
