@@ -17,7 +17,7 @@
 			tasks: [{
 				id: "2FF704E5FDF74BE5"
 				type: "checkmark"
-				title: "Low on coins?"
+				title: "硬币不够用？"
 			}]
 			rewards: [{
 				id: "78999987FE7DAF9E"
@@ -57,7 +57,7 @@
 				{
 					id: "18A0B911AD726CE1"
 					type: "checkmark"
-					title: "FOUND IT"
+					title: "找到了"
 				}
 			]
 			rewards: [{
@@ -147,7 +147,7 @@
 			}]
 		}
 		{
-			title: "Slay the Dead"
+			title: "杀戮死者"
 			x: -1.0d
 			y: 2.0d
 			description: [
@@ -170,7 +170,7 @@
 				{
 					id: "71AC760F06C4726A"
 					type: "kill"
-					title: "Kill Pharaoh"
+					title: "杀死法老"
 					entity: "atum:pharaoh"
 					value: 1L
 				}
@@ -591,7 +591,7 @@
 			}]
 		}
 		{
-			title: "Childhood Memories"
+			title: "童年的回忆"
 			x: 7.0d
 			y: 10.0d
 			dependencies: [
@@ -700,7 +700,7 @@
 			}]
 		}
 		{
-			title: "Otherwordly Efforts"
+			title: "其他的努力"
 			x: 8.0d
 			y: 8.0d
 			description: [
@@ -818,7 +818,7 @@
 			}]
 		}
 		{
-			title: "Polish what is Treated"
+			title: "抛光木板"
 			x: 9.5d
 			y: 10.0d
 			dependencies: ["5B6656FD76253CF0"]
@@ -997,7 +997,7 @@
 			x: 7.0d
 			y: 19.5d
 			description: [
-				"Reputation Required: 3"
+				"声誉需求：3"
 				""
 				"每天祈祷一次来获得黑暗的主的声誉。"
 				""
@@ -1008,7 +1008,7 @@
 			tasks: [{
 				id: "78EFBB1BF4422BB3"
 				type: "custom"
-				title: "Obtain the Blood Sign"
+				title: "获得血液符文"
 				icon: "eidolon:codex"
 			}]
 			rewards: [{
@@ -1046,7 +1046,7 @@
 			tasks: [{
 				id: "7DA967C950E92725"
 				type: "custom"
-				title: "Obtain the Soul Sign"
+				title: "获得魂魄符文"
 				icon: "eidolon:codex"
 			}]
 			rewards: [{
@@ -1114,7 +1114,7 @@
 			tasks: [{
 				id: "4F5532D227289763"
 				type: "custom"
-				title: "Obtain the Mind Sign"
+				title: "获得心灵符文"
 				icon: "eidolon:codex"
 			}]
 			rewards: [{
