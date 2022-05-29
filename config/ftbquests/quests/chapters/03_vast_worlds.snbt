@@ -294,7 +294,7 @@
 			}]
 		}
 		{
-			title: "Slay the Evil"
+			title: "消灭邪恶"
 			x: -1.5d
 			y: 7.0d
 			description: ["凋零和凋零骷髅更加强大，当你尝试面对他们时，请确保你准备好了！"]
@@ -793,7 +793,7 @@
 			}]
 		}
 		{
-			title: "The Dark Lord Retuns"
+			title: "黑暗的主降临"
 			x: 7.0d
 			y: 16.0d
 			subtitle: "参考秘仪教典有关神力如何起作用"
@@ -1105,7 +1105,7 @@
 			x: 7.0d
 			y: 27.0d
 			description: [
-				"Reputation Required: 15"
+				"声誉需求：15"
 				""
 				"一旦你有了足够的声望，就把一个村民献给黑暗的主，获得心灵符文。"
 			]
