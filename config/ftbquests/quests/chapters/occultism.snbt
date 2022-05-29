@@ -3,7 +3,7 @@
 	group: "1DFE3EE269C0174B"
 	order_index: 7
 	filename: "occultism"
-	title: "Occultism"
+	title: "神秘学"
 	icon: {
 		id: "occultism:miner_debug_unspecialized"
 		Count: 1b
@@ -48,7 +48,7 @@
 		{
 			x: -2.0d
 			y: -3.5d
-			subtitle: "Very powerful \"digital\" storage"
+			subtitle: "非常强大的“数字”存储"
 			description: ["(psst it works well with ME Network!)"]
 			dependencies: ["1A172D3887CE9278"]
 			id: "61A9BD3BDBD13E1B"
@@ -135,7 +135,7 @@
 		{
 			x: -2.0d
 			y: -2.0d
-			subtitle: "Dimensionless storage!"
+			subtitle: "跨维度存储！"
 			dependencies: ["61A9BD3BDBD13E1B"]
 			id: "77963DB833445E8E"
 			tasks: [{
@@ -219,7 +219,7 @@
 			}]
 		}
 		{
-			title: "Greedy Familiar"
+			title: "贪婪使魔"
 			x: -4.5d
 			y: 1.0d
 			dependencies: ["0450AFB074D8FCCF"]
@@ -227,7 +227,7 @@
 			tasks: [{
 				id: "437AD014E5221347"
 				type: "observation"
-				title: "Greedy Familiar"
+				title: "贪婪使魔"
 				icon: "occultism:spawn_egg/familiar_greedy"
 				timer: 0L
 				observe_type: 5
@@ -243,7 +243,7 @@
 		{
 			x: -3.0d
 			y: -0.5d
-			subtitle: "To unlock the familiar quests, you have to look at them!"
+			subtitle: "如果要解锁关于使魔的任务，你需要看看这个！"
 			dependencies: ["08DF17B52FC2335A"]
 			id: "0450AFB074D8FCCF"
 			tasks: [{
@@ -275,7 +275,7 @@
 			tasks: [{
 				id: "4A33A63622DE60C5"
 				type: "observation"
-				title: "Bat Familiar"
+				title: "蝙蝠使魔"
 				icon: "occultism:spawn_egg/familiar_bat"
 				timer: 0L
 				observe_type: 5
@@ -296,7 +296,7 @@
 			tasks: [{
 				id: "5DB6DCBA9373B536"
 				type: "observation"
-				title: "Deer Familiar"
+				title: "小鹿使魔"
 				icon: "occultism:spawn_egg/familiar_deer"
 				timer: 0L
 				observe_type: 5
@@ -317,7 +317,7 @@
 			tasks: [{
 				id: "053500DFAB345C62"
 				type: "observation"
-				title: "Cthulhu Familiar"
+				title: "克苏鲁使魔"
 				icon: "occultism:spawn_egg/familiar_cthulhu"
 				timer: 0L
 				observe_type: 5
@@ -338,7 +338,7 @@
 			tasks: [{
 				id: "758F05F85F3E23F5"
 				type: "observation"
-				title: "Devil Familiar"
+				title: "恶魔使魔"
 				icon: "occultism:spawn_egg/familiar_devil"
 				timer: 0L
 				observe_type: 5
@@ -359,7 +359,7 @@
 			tasks: [{
 				id: "3EF39D373A1D5333"
 				type: "observation"
-				title: "Dragon Familiar"
+				title: "龙使魔"
 				icon: "occultism:spawn_egg/familiar_dragon"
 				timer: 0L
 				observe_type: 5
@@ -380,7 +380,7 @@
 			tasks: [{
 				id: "1032D2685D977B1B"
 				type: "observation"
-				title: "Blacksmith Familiar"
+				title: "铁匠使魔"
 				icon: "occultism:spawn_egg/familiar_blacksmith"
 				timer: 0L
 				observe_type: 5
@@ -401,7 +401,7 @@
 			tasks: [{
 				id: "357316D7DCB4E4A9"
 				type: "observation"
-				title: "Guardian Familiar"
+				title: "守护者使魔"
 				icon: "occultism:spawn_egg/familiar_guardian"
 				timer: 0L
 				observe_type: 5
@@ -422,7 +422,7 @@
 			tasks: [{
 				id: "594A6E85A96C71E0"
 				type: "observation"
-				title: "Headless Ratman Familiar"
+				title: "无头鼠骑士使魔"
 				icon: "occultism:spawn_egg/familiar_headless"
 				timer: 0L
 				observe_type: 5
@@ -443,7 +443,7 @@
 			tasks: [{
 				id: "2F3D2B0ABB5FAE5E"
 				type: "observation"
-				title: "Chimera Familiar"
+				title: "奇美拉使魔"
 				icon: "occultism:spawn_egg/familiar_chimera"
 				timer: 0L
 				observe_type: 5
@@ -459,13 +459,13 @@
 		{
 			x: -3.5d
 			y: 3.0d
-			subtitle: "Get The Filter"
+			subtitle: "获得过滤"
 			dependencies: ["0450AFB074D8FCCF"]
 			id: "117A9D462B5E82B4"
 			tasks: [{
 				id: "1B17B87538009976"
 				type: "observation"
-				title: "Goat Familiar"
+				title: "山羊使魔"
 				icon: "occultism:spawn_egg/familiar_goat"
 				timer: 0L
 				observe_type: 5
@@ -486,7 +486,7 @@
 			tasks: [{
 				id: "6924E7781AD6DA80"
 				type: "observation"
-				title: "Shub Niggurath Familiar"
+				title: "莎布·尼古拉斯使魔"
 				icon: "occultism:spawn_egg/familiar_shub_niggurath"
 				timer: 0L
 				observe_type: 5
@@ -507,7 +507,7 @@
 			tasks: [{
 				id: "68732E79739E6956"
 				type: "observation"
-				title: "Beholder Familiar"
+				title: "眼魔使魔"
 				icon: "occultism:spawn_egg/familiar_beholder"
 				timer: 0L
 				observe_type: 5
@@ -528,7 +528,7 @@
 			tasks: [{
 				id: "735258EE856E8D93"
 				type: "observation"
-				title: "Fairy Familiar"
+				title: "妖精使魔"
 				icon: "occultism:spawn_egg/familiar_fairy"
 				timer: 0L
 				observe_type: 5
@@ -549,7 +549,7 @@
 			tasks: [{
 				id: "10344BC1ED26B528"
 				type: "observation"
-				title: "Mummy Familiar"
+				title: "木乃伊使魔"
 				icon: "occultism:spawn_egg/familiar_mummy"
 				timer: 0L
 				observe_type: 5
@@ -570,7 +570,7 @@
 			tasks: [{
 				id: "5D72341DE5ECA312"
 				type: "observation"
-				title: "Beaver Familiar"
+				title: "河狸使魔"
 				icon: "occultism:spawn_egg/familiar_beaver"
 				timer: 0L
 				observe_type: 5
