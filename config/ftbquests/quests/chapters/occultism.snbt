@@ -49,7 +49,7 @@
 			x: -2.0d
 			y: -3.5d
 			subtitle: "非常强大的“数字”存储"
-			description: ["(psst it works well with ME Network!)"]
+			description: ["(嘘，它和ME网络配合得很好！)"]
 			dependencies: ["1A172D3887CE9278"]
 			id: "61A9BD3BDBD13E1B"
 			tasks: [{
