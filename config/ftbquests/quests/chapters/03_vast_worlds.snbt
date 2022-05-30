@@ -31,7 +31,7 @@
 			icon: "atum:limestone_brick_large"
 			x: 0.5d
 			y: 0.5d
-			subtitle: "随便看看，我们正在寻找一个 girafi tomb map"
+			subtitle: "随便看看，我们正在寻找一个Girafi墓穴勘探地图"
 			description: ["或者你可以到商店买一张地图"]
 			dependencies: ["186FC53FE0375088"]
 			id: "077943CC81D969EA"
