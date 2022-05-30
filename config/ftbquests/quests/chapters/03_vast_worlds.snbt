@@ -89,7 +89,7 @@
 			title: "Girafi墓地"
 			x: 0.5d
 			y: 2.0d
-			description: ["Girafi墓地能通过探索阿图姆世界来发现，地牢有机会给你一张地图！"]
+			description: ["Girafi墓穴能通过探索阿图姆世界来发现，地牢有机会给你一张地图！"]
 			dependencies: ["077943CC81D969EA"]
 			dependency_requirement: "one_started"
 			id: "17C8118C8AFEC799"
