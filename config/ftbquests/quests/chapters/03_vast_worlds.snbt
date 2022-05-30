@@ -1208,7 +1208,7 @@
 			x: 1.0d
 			y: 17.5d
 			subtitle: "召唤碎矿魔精者"
-			description: ["魔精碎矿者能将合适的物品变成矿粉形式； 将在发展中需要它"]
+			description: ["魔精碎矿者能将合适的物品变成矿粉形式；将在发展中需要它"]
 			dependencies: ["201C51D543D84245"]
 			id: "236EB71CA832E476"
 			tasks: [{
