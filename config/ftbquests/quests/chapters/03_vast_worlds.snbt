@@ -86,7 +86,7 @@
 			}]
 		}
 		{
-			title: "Girafi墓地"
+			title: "Girafi墓穴"
 			x: 0.5d
 			y: 2.0d
 			description: ["Girafi墓穴能通过探索阿图姆世界来发现，地牢有机会给你一张地图！"]
