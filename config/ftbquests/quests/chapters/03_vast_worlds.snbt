@@ -1458,7 +1458,7 @@
 			}]
 		}
 		{
-			title: "Fight the Beast "
+			title: "向野兽宣战"
 			x: -1.5d
 			y: 29.0d
 			shape: "gear"
@@ -1468,7 +1468,7 @@
 			tasks: [{
 				id: "5B09720AB6B039B8"
 				type: "kill"
-				title: "Kill the Queen "
+				title: "杀死皇后"
 				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
