@@ -164,7 +164,7 @@
 			x: 0.018707482993221447d
 			y: -1.9421768707483267d
 			shape: "diamond"
-			subtitle: "参阅Proletaria信息手册以浏览结构投影。"
+			subtitle: "参考Proletaria信息手册以浏览结构投影。"
 			dependencies: [
 				"639AB9AA5FF81F12"
 				"3E42F1EF6664DBDB"
