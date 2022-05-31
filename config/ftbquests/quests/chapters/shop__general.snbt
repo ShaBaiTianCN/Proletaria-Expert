@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 2
 	filename: "shop__general"
-	title: "商店-通用"
+	title: "商店 - 通用"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [

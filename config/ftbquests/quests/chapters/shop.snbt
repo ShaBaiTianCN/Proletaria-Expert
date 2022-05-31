@@ -3,7 +3,7 @@
 	group: "1B43E39131B2A05D"
 	order_index: 3
 	filename: "shop"
-	title: "商店-阶段"
+	title: "商店 - 阶段"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
