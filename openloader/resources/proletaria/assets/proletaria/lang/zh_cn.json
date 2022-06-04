@@ -1,7 +1,7 @@
 {
   "filled_map.atum:girafi_tomb": "Girafi墓穴勘探地图",
 
-  "advancements.proletaria_gamestages.root.title": "Proletaria - 游戏阶段",
+  "advancements.proletaria_gamestages.root.title": "Proletaria 游戏阶段",
   "advancements.proletaria_gamestages.root.description": "根成就",
   "advancements.proletaria_gamestages.eat_ender_sushi.title": "末地已解锁",
   "advancements.proletaria_gamestages.eat_ender_sushi.description": "全是末影的寿司",
@@ -35,7 +35,7 @@
   "advancements.quest_triggerer.stage_x.title": "Stage X Access",
   "advancements.quest_triggerer.stage_x.description": "You have been granted access to stage X",
 
-  "advancements.proletaria_exploration.root.title": "Proletaria - 探索",
+  "advancements.proletaria_exploration.root.title": "Proletaria 探索",
   "advancements.proletaria_exploration.root.description": "所有 Proletaria Expert 探索进度的开始",
 
   "advancements.proletaria_exploration.atum.start.title": "Proletaria 探索阿图姆维度",
