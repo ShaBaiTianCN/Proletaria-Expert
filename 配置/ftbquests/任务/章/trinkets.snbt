@@ -829,7 +829,7 @@
 			}]
 		}
 		{
-			title: "饰品：遏影意志""
+			title: "饰品：遏影意志"
 			icon: "losttrinkets:sticky_mind"
 			tags: ["repeat"]
 			x: 1.0d
@@ -985,7 +985,7 @@
 			}]
 		}
 		{
-			title: "饰品：小海星t"
+			title: "饰品：小海星"
 			icon: "losttrinkets:starfish"
 			tags: ["repeat"]
 			x: -2.0d
