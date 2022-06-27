@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Proletaria-Expert
 
+[![Proletaria Expert](https://img.shields.io/badge/CurseForge-Proletaria%20Expert-F16436)](https://www.curseforge.com/minecraft/modpacks/proletaria-expert)
 [![Website](https://shields.io/website?up_message=anyijun.com&url=http://anyijun.com&label=Website)](http://anyijun.com)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Proletaria-Expert/blob/master/LICENSE)
 [![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Proletaria-Expert/total?label=Downloads)](https://github.com/ShaBaiTianCN/Proletaria-Expert/releases)
